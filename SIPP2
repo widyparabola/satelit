@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1,INDOSIAR
-http://36.78.217.237/live/hrnet/hrnet/7.ts
+http://36.78.217.237/live/hrnet/hrnet/7.m3u8
 #EXTINF:-1,RCTI
-http://36.78.217.237/live/hrnet/hrnet/5.ts
+http://36.78.217.237/live/hrnet/hrnet/5.m3u8
 #EXTINF:-1,HBO HD
-http://36.78.217.237/live/hrnet/hrnet/4.ts
+http://36.78.217.237/live/hrnet/hrnet/4.m3u8
 #EXTINF:-1,LIVE HRNET SD
-http://36.78.217.237/live/hrnet/hrnet/3.ts
+http://36.78.217.237/live/hrnet/hrnet/3.m3u8
 #EXTINF:-1,LIVE HRNET HD
-http://36.78.217.237/live/hrnet/hrnet/2.ts
+http://36.78.217.237/live/hrnet/hrnet/2.m3u8
 #EXTINF:-1,LIVE HRNET FHD
-http://36.78.217.237/live/hrnet/hrnet/1.ts
+http://36.78.217.237/live/hrnet/hrnet/1.m3u8
