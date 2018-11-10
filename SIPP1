@@ -118,37 +118,37 @@ http://flash1.broadcastindo.net/tatv/live.sdp/playlist.m3u8
 
 
 
-#EXTINF:0, tvg-logo="http://elhank.6te.net/LOGO/ninmedia.jpg" group-title="NINMEDIA", MK TV
+#EXTINF:0, "NINMEDIA", MK TV
 http://stream1.ninmedia.tv/live/xmedia-mktv.stream_nin/playlist.m3u8
-#EXTINF:0, tvg-logo="http://elhank.6te.net/LOGO/ninmedia.jpg" group-title="NINMEDIA", MALEO CHANNEL
+#EXTINF:0, "NINMEDIA", MALEO CHANNEL
 http://stream1.ninmedia.tv/live/xmedia-maleotv.stream_nin/playlist.m3u8
-#EXTINF:0, tvg-logo="http://elhank.6te.net/LOGO/ninmedia.jpg" group-title="NINMEDIA", KLIK MUSIK
+#EXTINF:0, "NINMEDIA", KLIK MUSIK
 http://stream1.ninmedia.tv/live/xmedia-klikmusictv.stream_nin/playlist.m3u8
-#EXTINF:0, tvg-logo="http://elhank.6te.net/LOGO/ninmedia.jpg" group-title="NINMEDIA", SALURAN FILM INDONESIA
+#EXTINF:0,  "NINMEDIA", SALURAN FILM INDONESIA
 http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/playlist.m3u8
-#EXTINF:0, tvg-logo="http://elhank.6te.net/LOGO/ninmedia.jpg" group-title="NINMEDIA", TV BMW
+#EXTINF:0,  "NINMEDIA", TV BMW
 http://stream1.ninmedia.tv/live/xmedia-bmwtv.stream_nin/playlist.m3u8
-#EXTINF:0, tvg-logo="http://elhank.6te.net/LOGO/ninmedia.jpg" group-title="NINMEDIA", FAKTA TV
+#EXTINF:0,  "NINMEDIA", FAKTA TV
 http://stream1.ninmedia.tv/live/nin-9net.stream_nin/playlist.m3u8
-#EXTINF:0, tvg-logo="http://elhank.6te.net/LOGO/ninmedia.jpg" group-title="NINMEDIA", DMI CHANNEL
+#EXTINF:0,  "NINMEDIA", DMI CHANNEL
 http://stream1.ninmedia.tv/live/xmedia-dmitv.stream_nin/playlist.m3u8
-#EXTINF:0, tvg-logo="http://elhank.6te.net/LOGO/ninmedia.jpg" group-title="NINMEDIA", KITANESIA
+#EXTINF:0,  "NINMEDIA", KITANESIA
 http://stream1.ninmedia.tv/live/xmedia-kitanesiatv.stream_nin/playlist.m3u8
-#EXTINF:0, tvg-logo="http://elhank.6te.net/LOGO/ninmedia.jpg" group-title="NINMEDIA", SALING SAPA
+#EXTINF:0,  "NINMEDIA", SALING SAPA
 http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
-#EXTINF:0, tvg-logo="http://elhank.6te.net/LOGO/ninmedia.jpg" group-title="NINMEDIA", DIAMOND TV
+#EXTINF:0,  "NINMEDIA", DIAMOND TV
 http://stream1.ninmedia.tv/live/xmedia-dtv.stream_nin/playlist.m3u8
-#EXTINF:0, tvg-logo="http://elhank.6te.net/LOGO/ninmedia.jpg" group-title="NINMEDIA", RRI NET
+#EXTINF:0,  "NINMEDIA", RRI NET
 http://stream1.ninmedia.tv/live/xmedia-rrinet.stream_nin/playlist.m3u8
-#EXTINF:0, tvg-logo="http://elhank.6te.net/LOGO/ninmedia.jpg" group-title="NINMEDIA", STAR BRIDGE TV
+#EXTINF:0,  "NINMEDIA", STAR BRIDGE TV
 http://stream2.ninmedia.tv/live/nin-startbridge-nin.stream_nin/playlist.m3u8
-#EXTINF:0, tvg-logo="http://elhank.6te.net/LOGO/ninmedia.jpg" group-title="NINMEDIA", INSPIRA TV
+#EXTINF:0,  "NINMEDIA", INSPIRA TV
 http://stream1.ninmedia.tv/live/xmedia-inspiratv.stream_nin/playlist.m3u8
-#EXTINF:0, tvg-logo="http://elhank.6te.net/LOGO/ninmedia.jpg" group-title="NINMEDIA", RUMAH TV
+#EXTINF:0,  "NINMEDIA", RUMAH TV
 http://stream2.ninmedia.tv/live/xmedia-rumahtv.stream_nin/playlist.m3u8
-#EXTINF:0, tvg-logo="http://elhank.6te.net/LOGO/ninmedia.jpg" group-title="NINMEDIA", AREK TV
+#EXTINF:0,  "NINMEDIA", AREK TV
 ttp://stream1.ninmedia.tv/live/xmedia-arektv.stream/playlist.m3u8
-#EXTINF:0, tvg-logo="http://elhank.6te.net/LOGO/ninmedia.jpg" group-title="NINMEDIA", NU CHANNEL
+#EXTINF:0,  "NINMEDIA", NU CHANNEL
 http://stream1.ninmedia.tv/live/xmedia-nuchannel.stream_nin/playlist.m3u8
 
 
