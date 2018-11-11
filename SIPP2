@@ -1,277 +1,103 @@
-#EXTM3U
-#EXTINF:-1,USEETVSport/Gojek
-http://ip08.net:8888/live/nandang/n5f8h/134.ts
-#EXTINF:-1,FLIX Useetv
-http://ip08.net:8888/live/nandang/n5f8h/133.ts
-#EXTINF:-1,Bein Sport 3 Indonesia
-http://ip08.net:8888/live/nandang/n5f8h/137.ts
-#EXTINF:-1,Bein Sport 2 HDIndonesia
-http://ip08.net:8888/live/nandang/n5f8h/136.ts
-#EXTINF:-1,Bein Sport 1HD Indonesia
-http://ip08.net:8888/live/nandang/n5f8h/135.ts
-#EXTINF:-1,RTV Kabel
-http://ip08.net:8888/live/nandang/n5f8h/33.ts
-#EXTINF:-1,SCTV Kabel
-http://ip08.net:8888/live/nandang/n5f8h/159.ts
-#EXTINF:-1,TRANTV Kabel
-http://ip08.net:8888/live/nandang/n5f8h/17.ts
-#EXTINF:-1,TRAN 7 Kabel
-http://ip08.net:8888/live/nandang/n5f8h/18.ts
-#EXTINF:-1,ANTV Kabel
-http://ip08.net:8888/live/nandang/n5f8h/20.ts
-#EXTINF:-1,ANTARA TV
-http://ip08.net:8888/live/nandang/n5f8h/129.ts
-#EXTINF:-1,CNN INDONESIA
-http://ip08.net:8888/live/nandang/n5f8h/128.ts
-#EXTINF:-1,INEWSTV Kabel
-http://ip08.net:8888/live/nandang/n5f8h/15.ts
-#EXTINF:-1,INDOSIAR Kabel
-http://ip08.net:8888/live/nandang/n5f8h/16.ts
-#EXTINF:-1,GTV Kabel
-http://ip08.net:8888/live/nandang/n5f8h/13.ts
-#EXTINF:-1,TVRI Kabel
-http://ip08.net:8888/live/nandang/n5f8h/23.ts
-#EXTINF:-1,RCTI Kabel
-http://ip08.net:8888/live/nandang/n5f8h/12.ts
-#EXTINF:-1,NET_HD Kabel
-http://ip08.net:8888/live/nandang/n5f8h/25.ts
-#EXTINF:-1,TVONE Kabel
-http://ip08.net:8888/live/nandang/n5f8h/21.ts
-#EXTINF:-1,MNCTV Kabel
-http://ip08.net:8888/live/nandang/n5f8h/14.ts
-#EXTINF:-1,MNC NEWS Kabel
-http://ip08.net:8888/live/nandang/n5f8h/22.ts
-#EXTINF:-1,METROTV Kabel
-http://ip08.net:8888/live/nandang/n5f8h/19.ts
-#EXTINF:-1,Kompas TV Kabel
-http://ip08.net:8888/live/nandang/n5f8h/141.ts
-#EXTINF:-1,Elshinta TV indonesia
-http://ip08.net:8888/live/nandang/n5f8h/142.ts
-#EXTINF:-1,SUNNA tv
-http://ip08.net:8888/live/nandang/n5f8h/131.ts
-#EXTINF:-1,QURAN tv
-http://ip08.net:8888/live/nandang/n5f8h/132.ts
-#EXTINF:-1,Disney Junior HD22
-http://ip08.net:8888/live/nandang/n5f8h/160.ts
-#EXTINF:-1,Disney Junior HD
-http://ip08.net:8888/live/nandang/n5f8h/139.ts
-#EXTINF:-1,Disney XD
-http://ip08.net:8888/live/nandang/n5f8h/162.ts
-#EXTINF:-1,Nick JR HD
-http://ip08.net:8888/live/nandang/n5f8h/163.ts
-#EXTINF:-1,Kids Movies
-http://ip08.net:8888/live/nandang/n5f8h/153.ts
-#EXTINF:-1,Anime
-http://ip08.net:8888/live/nandang/n5f8h/155.ts
-#EXTINF:-1,ToonMax Tv
-http://ip08.net:8888/live/nandang/n5f8h/144.ts
-#EXTINF:-1,Biznet Kids
-http://ip08.net:8888/live/nandang/n5f8h/138.ts
-#EXTINF:-1,Discovery KID
-http://ip08.net:8888/live/nandang/n5f8h/147.ts
-#EXTINF:-1,Kids_Diamond
-http://ip08.net:8888/live/nandang/n5f8h/26.ts
-#EXTINF:-1,Cartoon Network
-http://ip08.net:8888/live/nandang/n5f8h/145.ts
-#EXTINF:-1,Cartoon Network HD
-http://ip08.net:8888/live/nandang/n5f8h/166.ts
-#EXTINF:-1,BABY TV UHD
-http://ip08.net:8888/live/nandang/n5f8h/117.ts
-#EXTINF:-1,Nick Junior
-http://ip08.net:8888/live/nandang/n5f8h/156.ts
-#EXTINF:-1,K+ Indonesia
-http://ip08.net:8888/live/nandang/n5f8h/8.ts
-#EXTINF:-1,S_ONE Indonesia
-http://ip08.net:8888/live/nandang/n5f8h/43.ts
-#EXTINF:-1,SBS_INDONESIA
-http://ip08.net:8888/live/nandang/n5f8h/42.ts
-#EXTINF:-1,ZeeBioskop Indonesia
-http://ip08.net:8888/live/nandang/n5f8h/1.ts
-#EXTINF:-1,KIX Indonesia
-http://ip08.net:8888/live/nandang/n5f8h/36.ts
-#EXTINF:-1,K-DRAMA Indonesia
-http://ip08.net:8888/live/nandang/n5f8h/44.ts
-#EXTINF:-1,FOX HD Indonesia
-http://ip08.net:8888/live/nandang/n5f8h/40.ts
-#EXTINF:-1,FOX FAMILY MOVIES
-http://ip08.net:8888/live/nandang/n5f8h/41.ts
-#EXTINF:-1,FOX ACTION MOVIES Indov
-http://ip08.net:8888/live/nandang/n5f8h/39.ts
-#EXTINF:-1,thrill Indonesia
-http://ip08.net:8888/live/nandang/n5f8h/37.ts
-#EXTINF:-1,celestial movie Indonesia
-http://ip08.net:8888/live/nandang/n5f8h/45.ts
-#EXTINF:-1,AXN Indonesia
-http://ip08.net:8888/live/nandang/n5f8h/47.ts
-#EXTINF:-1,HBO HD
-http://ip08.net:8888/live/nandang/n5f8h/158.ts
-#EXTINF:-1,ANIPLUS Indonesia
-http://ip08.net:8888/live/nandang/n5f8h/38.ts
-#EXTINF:-1,Fox Movies Indonesia
-http://ip08.net:8888/live/nandang/n5f8h/4.ts
-#EXTINF:-1,Fox Movie
-http://ip08.net:8888/live/nandang/n5f8h/2.ts
-#EXTINF:-1,AXN HD
-http://ip08.net:8888/live/nandang/n5f8h/149.ts
-#EXTINF:-1,Sky Movie Select
-http://ip08.net:8888/live/nandang/n5f8h/152.ts
-#EXTINF:-1,HBO HD3
-http://ip08.net:8888/live/nandang/n5f8h/151.ts
-#EXTINF:-1,Sundance
-http://ip08.net:8888/live/nandang/n5f8h/150.ts
-#EXTINF:-1,FOX Life Indonesia
-http://ip08.net:8888/live/nandang/n5f8h/9.ts
-#EXTINF:-1,LifeStyle Bisnet Indonesia
-http://ip08.net:8888/live/nandang/n5f8h/49.ts
-#EXTINF:-1,TLC
-http://ip08.net:8888/live/nandang/n5f8h/154.ts
-#EXTINF:-1,Nat GeoWild Indonesia
-http://ip08.net:8888/live/nandang/n5f8h/3.ts
-#EXTINF:-1,National Geografi HD Indonesia
-http://ip08.net:8888/live/nandang/n5f8h/46.ts
-#EXTINF:-1,Animal Planet HD
-http://ip08.net:8888/live/nandang/n5f8h/146.ts
-#EXTINF:-1,History HD
-http://ip08.net:8888/live/nandang/n5f8h/157.ts
-#EXTINF:-1,History 2
-http://ip08.net:8888/live/nandang/n5f8h/164.ts
-#EXTINF:-1,DISCOVERY WORLD HD
-http://ip08.net:8888/live/nandang/n5f8h/127.ts
-#EXTINF:-1,DMAX
-http://ip08.net:8888/live/nandang/n5f8h/140.ts
-#EXTINF:-1,TV5 Monde Asia
-http://ip08.net:8888/live/nandang/n5f8h/143.ts
-#EXTINF:-1,Diamond_Earth
-http://ip08.net:8888/live/nandang/n5f8h/32.ts
-#EXTINF:-1,Black_Diamond
-http://ip08.net:8888/live/nandang/n5f8h/29.ts
-#EXTINF:-1,Gold_Diamond
-http://ip08.net:8888/live/nandang/n5f8h/28.ts
-#EXTINF:-1,Red_Diamond
-http://ip08.net:8888/live/nandang/n5f8h/31.ts
-#EXTINF:-1,Avava_Diamond
-http://ip08.net:8888/live/nandang/n5f8h/27.ts
-#EXTINF:-1,Avava_Bollywood_Diamond
-http://ip08.net:8888/live/nandang/n5f8h/30.ts
-#EXTINF:-1,Astro Bernama TV
-http://ip08.net:8888/live/nandang/n5f8h/11.ts
-#EXTINF:-1,Trace Trofica
-http://ip08.net:8888/live/nandang/n5f8h/34.ts
-#EXTINF:-1,MTV HD Dance
-http://ip08.net:8888/live/nandang/n5f8h/35.ts
-#EXTINF:-1,MALEO CHANNEL
-http://ip08.net:8888/live/nandang/n5f8h/50.ts
-#EXTINF:-1,KLIK MUSIK
-http://ip08.net:8888/live/nandang/n5f8h/51.ts
-#EXTINF:-1,Nat Geo Poeple
-http://ip08.net:8888/live/nandang/n5f8h/130.ts
-#EXTINF:-1,RTM 2
-http://ip08.net:8888/live/nandang/n5f8h/124.ts
-#EXTINF:-1,RTM 1
-http://ip08.net:8888/live/nandang/n5f8h/123.ts
-#EXTINF:-1,Skynet Sport HD
-http://ip08.net:8888/live/nandang/n5f8h/148.ts
-#EXTINF:-1,ASTRO SPORT
-http://ip08.net:8888/live/nandang/n5f8h/125.ts
-#EXTINF:-1,ASTRO ARENA
-http://ip08.net:8888/live/nandang/n5f8h/126.ts
-#EXTINF:-1,Fox Sport 3 Indonesia
-http://ip08.net:8888/live/nandang/n5f8h/6.ts
-#EXTINF:-1,Fox Sport 2 Indonesia
-http://ip08.net:8888/live/nandang/n5f8h/5.ts
-#EXTINF:-1,Fox Sport 1 Indonesia
-http://ip08.net:8888/live/nandang/n5f8h/7.ts
-#EXTINF:-1,Treue Sport HD
-http://ip08.net:8888/live/nandang/n5f8h/57.ts
-#EXTINF:-1,Treue Sport
-http://ip08.net:8888/live/nandang/n5f8h/56.ts
-#EXTINF:-1,SONY TEN 3 HD
-http://ip08.net:8888/live/nandang/n5f8h/60.ts
-#EXTINF:-1,SONY TEN 2 HD
-http://ip08.net:8888/live/nandang/n5f8h/59.ts
-#EXTINF:-1,SONY TEN 1 HD
-http://ip08.net:8888/live/nandang/n5f8h/58.ts
-#EXTINF:-1,SONY SIX HD
-http://ip08.net:8888/live/nandang/n5f8h/62.ts
-#EXTINF:-1,SONY ESPN SD
-http://ip08.net:8888/live/nandang/n5f8h/61.ts
-#EXTINF:-1,Bein Sport4 True
-http://ip08.net:8888/live/nandang/n5f8h/55.ts
-#EXTINF:-1,Bein Sport3 True
-http://ip08.net:8888/live/nandang/n5f8h/54.ts
-#EXTINF:-1,Bein Sport2 True
-http://ip08.net:8888/live/nandang/n5f8h/53.ts
-#EXTINF:-1,Bein Sport1 True
-http://ip08.net:8888/live/nandang/n5f8h/52.ts
-#EXTINF:-1,xxx BRAZZERS
-http://ip08.net:8888/live/nandang/n5f8h/161.ts
-#EXTINF:-1,Jasmin TV
-http://ip08.net:8888/live/nandang/n5f8h/69.ts
-#EXTINF:-1,Babestation
-http://ip08.net:8888/live/nandang/n5f8h/63.ts
-#EXTINF:-1,Cinemax HD
-http://ip08.net:8888/live/nandang/n5f8h/170.ts
-#EXTINF:-1,TV One 2 Kabel
-http://ip08.net:8888/live/nandang/n5f8h/169.ts
-#EXTINF:-1,SONY LE PLEX HD
-http://ip08.net:8888/live/nandang/n5f8h/168.ts
-#EXTINF:-1,Sony PIX HD
-http://ip08.net:8888/live/nandang/n5f8h/167.ts
-#EXTINF:-1,Animal Planet HD Word
-http://ip08.net:8888/live/nandang/n5f8h/165.ts
-#EXTINF:-1,Hustler HD
-http://ip08.net:8888/live/nandang/n5f8h/173.ts
-#EXTINF:-1,EROX TV
-http://ip08.net:8888/live/nandang/n5f8h/172.ts
-#EXTINF:-1,Team Skeet - VOD 21 - Sasha
-http://ip08.net:8888/live/nandang/n5f8h/106.ts
-#EXTINF:-1,Team Skeet - VOD 20 - Sara Luvv
-http://ip08.net:8888/live/nandang/n5f8h/105.ts
-#EXTINF:-1,Team Skeet - VOD 19 - Neona
-http://ip08.net:8888/live/nandang/n5f8h/104.ts
-#EXTINF:-1,Team Skeet - VOD 17 - Mirabella
-http://ip08.net:8888/live/nandang/n5f8h/102.ts
-#EXTINF:-1,Team Skeet - VOD 16 - Lacie Channing
-http://ip08.net:8888/live/nandang/n5f8h/101.ts
-#EXTINF:-1,Team Skeet - VOD 15 - Jane
-http://ip08.net:8888/live/nandang/n5f8h/100.ts
-#EXTINF:-1,Team Skeet - VOD 14 - Irina
-http://ip08.net:8888/live/nandang/n5f8h/99.ts
-#EXTINF:-1,Team Skeet - VOD 13 - Gerta
-http://ip08.net:8888/live/nandang/n5f8h/98.ts
-#EXTINF:-1,Team Skeet - VOD 12 - Dusya
-http://ip08.net:8888/live/nandang/n5f8h/97.ts
-#EXTINF:-1,Team Skeet - VOD 11 - Demida
-http://ip08.net:8888/live/nandang/n5f8h/96.ts
-#EXTINF:-1,Team Skeet - VOD 10 - Dakota Skye
-http://ip08.net:8888/live/nandang/n5f8h/95.ts
-#EXTINF:-1,Team Skeet - VOD 09 - Chloe Foster
-http://ip08.net:8888/live/nandang/n5f8h/94.ts
-#EXTINF:-1,Visit-X TV
-http://ip08.net:8888/live/nandang/n5f8h/80.ts
-#EXTINF:-1,Tiny 4K - VOD 06
-http://ip08.net:8888/live/nandang/n5f8h/93.ts
-#EXTINF:-1,Tiny 4K - VOD 05
-http://ip08.net:8888/live/nandang/n5f8h/92.ts
-#EXTINF:-1,Tiny 4K - VOD 04
-http://ip08.net:8888/live/nandang/n5f8h/91.ts
-#EXTINF:-1,Tiny 4K - VOD 03
-http://ip08.net:8888/live/nandang/n5f8h/90.ts
-#EXTINF:-1,Tiny 4K - VOD 02
-http://ip08.net:8888/live/nandang/n5f8h/89.ts
-#EXTINF:-1,Tiny 4K - VOD 01
-http://ip08.net:8888/live/nandang/n5f8h/88.ts
-#EXTINF:-1,Studio 66
-http://ip08.net:8888/live/nandang/n5f8h/78.ts
-#EXTINF:-1,Other - Seventeen Video 01
-http://ip08.net:8888/live/nandang/n5f8h/81.ts
-#EXTINF:-1,Other - Public Pick Ups 01
-http://ip08.net:8888/live/nandang/n5f8h/87.ts
-#EXTINF:-1,Other - Nubiles Porn - Ricky
-http://ip08.net:8888/live/nandang/n5f8h/86.ts
-#EXTINF:-1,Other - Lust Cinema - Sex Fetish
-http://ip08.net:8888/live/nandang/n5f8h/85.ts
-#EXTINF:-1,Other - Girls   Studs 01
-http://ip08.net:8888/live/nandang/n5f8h/83.ts
-#EXTINF:-1,Other - Dane Jones - My Sweet Spot
-http://ip08.net:8888/live/nandang/n5f8h/84.ts
+#LOKAL
+#EXTINF:-1 ,Lokal-100 TVRI
+rtp://@239.1.1.37:8196
+#EXTINF:-1 ,Lokal-101 METROTV
+rtp://@239.1.1.19:8088
+#EXTINF:-1 ,Lokal-102 CNN INDONESIA
+rtp://@239.1.1.241:9362
+#EXTINF:-1 ,Lokal-103 TVONE
+rtp://@239.1.1.31:8160
+#EXTINF:-1 ,Lokal-104 TRANSTV
+rtp://@239.1.1.27:8136
+#EXTINF:-1 ,Lokal-105 TRANS7
+rtp://@239.1.1.29:8148
+#EXTINF:-1 ,Lokal-106 SCTV
+rtp://@239.1.1.21:8100
+#EXTINF:-1 ,Lokal-107 INDOSIAR
+rtp://@239.1.1.17:8076
+#EXTINF:-1 ,Lokal-108 ANTV
+rtp://@239.1.1.15:8064
+#EXTINF:-1 ,Lokal-109 RCTI
+rtp://@239.1.1.23:8112
+#EXTINF:-1 ,Lokal-110 GLOBAL TV
+rtp://@239.1.1.13:8052
+#EXTINF:-1 ,Lokal-111 MNCTV
+rtp://@239.1.1.25:8124
+#EXTINF:-1 ,Lokal- Kompas TV
+rtp://@239.1.1.197:9156
+#EXTINF:-1 ,Lokal- NET TV
+rtp://@239.1.1.119:8688
+#Documentary
+#EXTINF:-1 ,Documentay-201 National Geographic
+rtp://@239.1.1.169:8988
+#EXTINF:-1 ,Documentay-202 National Geographic Wild
+rtp://@239.1.1.35:8184
+#KIDS
+#EXTINF:-1 ,KIDS-23 Dunia Anak
+rtp://@239.1.1.7:8016
+#EXTINF:-1 ,KIDS-301 Disney Channel
+rtp://@239.1.1.45:8244
+#EXTINF:-1 ,KIDS-303 Da Vinci Learning
+rtp://@239.1.1.99:8568
+#EXTINF:-1 ,KIDS-304 Nickelodeon
+rtp://@239.1.1.41:8220
+#EXTINF:-1 ,KIDS-306 Carton Network
+rtp://@239.1.1.123:8712
+#EXTINF:-1 ,KIDS-307 Toonami
+rtp://@239.1.1.143:8832
+#EXTINF:-1 ,KIDS-308 Boomerang
+rtp://@239.1.1.73:8412
+#LIFESTYLE
+#EXTINF:-1 ,LIFESTYLE-404 Fashion TV
+rtp://@239.1.1.79:8448
+#MUSIK
+#EXTINF:-1 ,Musik-450 MTV Asia
+rtp://@239.1.1.5:8004
+#EXTINF:-1 ,Musik-452 Channel [V]
+
+rtp://@239.1.1.173:9012
+#Entertainment channel 500
+#MOVIE Channel 600
+#EXTINF:-1 ,Movie-601 HBO
+rtp://@239.1.1.95:8544
+#EXTINF:-1 ,Movie-602 HBO Signature
+rtp://@239.1.1.93:8532
+#EXTINF:-1 ,Movie-603 CINEMAX
+rtp://@239.1.1.87:8496
+#EXTINF:-1 ,Movie-604 HBO Hits
+rtp://@239.1.1.91:8520
+#EXTINF:-1 ,Movie-605 HBO Family
+rtp://@239.1.1.89:8508
+#EXTINF:-1 ,Movie-607 FOX Movie Premium
+rtp://@239.1.1.11:8040
+#EXTINF:-1 ,Movie-608 FOX Family Movie
+rtp://@239.1.1.175:9024
+#EXTINF:-1 ,Movie-609 FOX Action Movie
+rtp://@239.1.1.125:8724
+#EXTINF:-1 ,Movie-611 Celestial Movie
+rtp://@239.1.1.97:8558
+#EXTINF:-1 ,Movie-612 Star Chinese Movie
+rtp://@239.1.1.131:8760
+#EXTINF:-1 ,Movie-613 Star Chinese Movie Legend
+rtp://@239.1.1.151:8880
+#EXTINF:-1 ,Movie-614 Z Bioskop
+rtp://@239.1.1.129:8748
+#SPORT Channel 700
+#Relligious Channel 800
+#EXTINF:-1 ,Religious-814 Al Quran Al Kareem
+rtp://@239.1.1.185:9084
+#NEWS Channel 800
+#EXTINF:-1 ,NEWS-801 CNN
+rtp://@239.1.1.105:8604
+#EXTINF:-1 ,NEWS-802 Bloomberg TV Asia
+rtp://@239.1.1.199:9168
+#EXTINF:-1 ,NEWS-803 CNBC Asia
+rtp://@239.1.1.155:8904
+#EXTINF:-1 ,NEWS-805 Al-jazeera
+rtp://@239.1.1.195:9144
+#EXTINF:-1 ,NEWS-811 CCTV 4
+rtp://@239.1.1.115:8664
+#EXTINF:-1 ,NEWS-812 CCTV 9 Documentary
+rtp://@239.1.1.121:8700
+
+
