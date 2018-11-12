@@ -1,356 +1,101 @@
-Azteca Noticias
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=004&lan=2&ro
-ws=40&f=.m3u8 —> HD
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=003&lan=2&ro
-ws=40&f=.m3u8 —> SD
-7 HD
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=008&lan=2&ro
-ws=40&f=.m3u8 —> HD
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=007&lan=2&ro
-ws=40&f=.m3u8 —> SD
-Trece HD
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=018&lan=2&ro
-ws=40&f=.m3u8 —> HD
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=017&lan=2&ro
-ws=40&f=.m3u8 —> SD
-ESPN
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=390&lan=2&ro
-ws=40&f=.m3u8 —> HD
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=389&lan=2&ro
-ws=40&f=.m3u8 —> SD
-Fox Sport 1
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=398&lan=2&ro
-ws=40&f=.m3u8 —> HD
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=397&lan=2&ro
-ws=40&f=.m3u8 —> SD
-Fox Sport 2
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=402&lan=2&ro
-ws=40&f=.m3u8 —> HD
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=401&lan=2&ro
-ws=40&f=.m3u8 —> SD
-Canal 5 ?
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=038&lan=2&ro
-ws=40&f=.m3u8 —> HD
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=037&lan=2&ro
-ws=40&f=.m3u8 —> SD
-Canal de las Estrellas
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=042&lan=2&ro
-ws=40&f=.m3u8 —> HD
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=041&lan=2&ro
-ws=40&f=.m3u8 —> SD
-Foro TV
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=046&lan=2&ro
-ws=40&f=.m3u8 —> HD
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=045&lan=2&ro
-ws=40&f=.m3u8 —> SD
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=058&lan=2&ro
-ws=40&f=.m3u8 —> HD
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=057&lan=2&ro
-ws=40&f=.m3u8 —> SD
-Canal Once
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=062&lan=2&ro
-ws=40&f=.m3u8 —> HD
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=061&lan=2&ro
-ws=40&f=.m3u8 —> SD
-Otro Trece
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=066&lan=2&ro
-ws=40&f=.m3u8 —> HD
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=065&lan=2&ro
-ws=40&f=.m3u8 —> SD
-
-Proyecto 40
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=070&lan=2&ro
-ws=40&f=.m3u8 —> HD
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=069&lan=2&ro
-ws=40&f=.m3u8 —> SD
-FOX
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=086&lan=2&ro
-ws=40&f=.m3u8 —> HD
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=085&lan=2&ro
-ws=40&f=.m3u8 —> SD
-STV
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=078&lan=2&ro
-ws=40&f=.m3u8 —> HD
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=077&lan=2&ro
-ws=40&f=.m3u8 —> SD
-#EXTINF:-1 ESPN HD
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=390&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 TYC SPORTS
-http://usa.fankytv.com/live/tyc.stream/playlist.m3u8
-#EXTINF:-1 FOX SPORT 2
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=402&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 FOX SPORT 1
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=398&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 ESPN2
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=410&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 ESPN 3
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=393&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 LATINOS”,XD
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=228&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 Warner
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=94&lan=2&row
-s=40&f=.m3u8
-#EXTINF:-1 UNIVERSAL
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=97&lan=2&row
-s=40&f=.m3u8
-#EXTINF:-1 TRU TV
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=115&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 TNT
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=313&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 TLC
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=254&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 TIIN
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=236&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 TELENOVELAS
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=186&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 TCM
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=382&lan=2&ro
-ws=40&f=.m3u8
-
-#EXTINF:-1 TBS
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=177&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 SyFy
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=142&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 STV HD
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=78&lan=2
-&rows=40&f=.m3u8
-#EXTINF:-1 STUDIO UNIVERSAL
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=374&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 SPACE
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=333&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 Sony
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=89&lan=2&row
-s=40&f=.m3u8
-#EXTINF:-1 NICK
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=217&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 NATIONAL GEOGRAPHIC
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=270&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 NAT.GEO WILD
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=250&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 MOVIECITY PREMIER
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=297&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 MOVIECITY HOLLYWOOD
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=305&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 MOVIECITY CLASICO
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=346&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 MOVIECITY ACTION
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=301&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 MGM
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=329&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 KIDS
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=195&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 DISNEY JUNIORS
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=204&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 INVESTIGATION DISCOVERY
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=154&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 INFINITO
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=157&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 ID
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=153&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 HOME & HEALT
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=266&lan=2&ro
-ws=40&f=.m3u8
-
-#EXTINF:-1 HMX
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=472&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 HISTORY
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=246&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 GOURMET
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=162&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 GOLDEN
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=317&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 GLITZ
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=167&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 GALAVISION
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=43&lan=2&row
-s=40&f=.m3u8
-#EXTINF:-1 FX-HD
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=101&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 FOX
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=85&lan=2&row
-s=40&f=.m3u8
-#EXTINF:-1 FILM ZONE
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=321&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 EDGE
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=361&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 DISTRITO COMEDIA
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=173&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 DISNEY XD
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=35&lan=2
-&rows=40&f=.m3u8
-#EXTINF:-1 DISNEY JR
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=212&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 DISNEY
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=209&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 DISCOVERY THEATER
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=242&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 DISCOVEREY TURBO
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=286&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 DISCOVERY SCIENCE
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=278&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 DISCOVERY CIVILIZATION
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=282&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 DISCOVERY CHANNEL
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=258&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 DE PELICULA
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=325&lan=2&ro
-ws=40&f=.m3u8
-
-#EXTINF:-1 COMEDY CENTRAL
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=117&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 CINEMAX
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=354&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 CINECANAL
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=350&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 CARTOON
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=221&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 Azteca 7
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=42&lan=2
-&rows=40&f=.m3u8
-#EXTINF:-1 CANAL 13 HD 1080
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=18&lan=2
-&rows=40&f=.m3u8
-#EXTINF:-1 BOOMERANG
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=230&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 BLOMBERG
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=461&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 BIO
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=274&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 BEBIES
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=200&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 AXN
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=109&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 VMAS TV
-http://uneapple-i.akamaihd.net/hls/live/207642/grupoune_st23@207642/st23_index.m
-3u8
-#EXTINF:-1 VIO
-http://uneapple-i.akamaihd.net/hls/live/205018/grupoune_st9@205018/st9_index.m3u
-8
-#EXTINF:-1 Vh1 HD
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=48&lan=2
-&rows=40&f=.m3u8
-#EXTINF:-1 Unicable
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=64&lan=2
-&rows=40&f=.m3u8
-#EXTINF:-1 TV Agro
-http://uneapple-i.akamaihd.net/hls/live/205015/grupoune_st6@205015/st6_index.m3u
-8
-#EXTINF:-1 TRU TV HD
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=63&lan=2
-&rows=40&f=.m3u8
-#EXTINF:-1 TRENDY
-http://uneapple-i.akamaihd.net/hls/live/205019/grupoune_st10@205019/st10_index.m
-3u8
-#EXTINF:-1 Telehit
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=47&lan=2
-&rows=40&f=.m3u8
-#EXTINF:-1 telecafe
-http://uneapple-i.akamaihd.net/hls/live/206417/grupoune_st16@206417/st16_index.m
-3u8
-
-#EXTINF:-1 Ritmoson
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=46&lan=2
-&rows=40&f=.m3u8
-#EXTINF:-1 Proyecto 40
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=39&lan=2
-&rows=40&f=.m3u8
-#EXTINF:-1 NOVEDADES TV
-http://uneapple-i.akamaihd.net/hls/live/205011/grupoune_st2@205011/st2_index.m3u
-8
-#EXTINF:-1 Life Design HD
-http://uneapple-i.akamaihd.net/hls/live/207384/grupoune_st22@207384/st22_index.m
-3u8
-#EXTINF:-1 Sat. 40
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=69&lan=2
-&rows=40&f=.m3u8
-#EXTINF:-1 HD
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=44&lan=2
-&rows=40&f=.m3u8
-#EXTINF:-1 H13N
-http://uneapple-i.akamaihd.net/hls/live/205013/grupoune_st4@205013/st4_index.m3u
-8
-#EXTINF:-1 EL TIEMPO
-http://uneapple-i.akamaihd.net/hls/live/207648/grupoune_st29@207648/st29_index.m
-3u8
-#EXTINF:-1 DOCU
-http://uneapple-i.akamaihd.net/hls/live/206414/grupoune_st13@206414/st13_index.m
-3u8
-#EXTINF:-1 Cosmovision
-http://uneapple-i.akamaihd.net/hls/live/206415/grupoune_st14@206415/st14_index.m
-3u8
-#EXTINF:-1 Cadena 3
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=40&lan=2
-&rows=40&f=.m3u8
-#EXTINF:-1 BBC
-http://uneapple-i.akamaihd.net/hls/live/205014/grupoune_st5@205014/st5_index.m3u
-8
-#EXTINF:-1 Bandamax
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=49&lan=2
-&rows=40&f=.m3u8
-#EXTINF:-1 Azteca 13
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=43&lan=2
-&rows=40&f=.m3u8
-#EXTINF:-1 ANIMAL PLANET
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=262&lan=2&ro
-ws=40&f=.m3u8
-#EXTINF:-1 MIMUSICA
-http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m
-3u8
-#EXTINF:-1 ME SUENA
-http://uneapple-i.akamaihd.net/hls/live/205017/grupoune_st8@205017/st8_index.m3u
-8
-
-
+#EXTM3U
+#EXTINF:-1,HBO
+http://182.253.35.150:9981/stream/channelid/825728565
+#EXTINF:-1,HBO Family
+http://182.253.35.150:9981/stream/channelid/830696913
+#EXTINF:-1,FOX Movies
+http://182.253.35.150:9981/stream/channelid/621636665
+#EXTINF:-1,FOX Action Movies
+http://182.253.35.150:9981/stream/channelid/756728141
+#EXTINF:-1,Nickelodeon
+http://182.253.35.150:9981/stream/channelid/992349515
+#EXTINF:-1,Baby First
+http://182.253.35.150:9981/stream/channelid/146205251
+#EXTINF:-1,Cartoon Networks
+http://182.253.35.150:9981/stream/channelid/416954882
+#EXTINF:-1,RCTI
+http://182.253.35.150:9981/stream/channelid/614901304
+#EXTINF:-1,Global TV
+http://182.253.35.150:9981/stream/channelid/957735167
+#EXTINF:-1,SCTV
+http://182.253.35.150:9981/stream/channelid/363601399
+#EXTINF:-1,Indosiar
+http://182.253.35.150:9981/stream/channelid/1808341685
+#EXTINF:-1,Net TV
+http://182.253.35.150:9981/stream/channelid/724688980
+#EXTINF:-1,Kompas TV
+http://182.253.35.150:9981/stream/channelid/1849847199
+#EXTINF:-1,Trans 7
+http://182.253.35.150:9981/stream/channelid/60275974
+#EXTINF:-1,SFI Prima
+http://182.253.35.150:9981/stream/channelid/1535677044
+#EXTINF:-1,ANTV
+http://182.253.35.150:9981/stream/channelid/1722612199
+#EXTINF:-1,SMI
+http://182.253.35.150:9981/stream/channelid/641729290
+#EXTINF:-1,Klik Music
+http://182.253.35.150:9981/stream/channelid/1886288115
+#EXTINF:-1,Salingsapa
+http://182.253.35.150:9981/stream/channelid/1084849743
+#EXTINF:-1,SFI
+http://182.253.35.150:9981/stream/channelid/1104081937
+#EXTINF:-1,Maleo Channel
+http://182.253.35.150:9981/stream/channelid/1895271013
+#EXTINF:-1,NU Channel
+http://182.253.35.150:9981/stream/channelid/154525725
+#EXTINF:-1,Tabalong TV
+http://182.253.35.150:9981/stream/channelid/1937809198
+#EXTINF:-1,Fakta TV
+http://182.253.35.150:9981/stream/channelid/2145818569
+#EXTINF:-1,Arek TV
+http://182.253.35.150:9981/stream/channelid/1301412846
+#EXTINF:-1,DMI
+http://182.253.35.150:9981/stream/channelid/1401988014
+#EXTINF:-1,Qur&#039;an TV
+http://182.253.35.150:9981/stream/channelid/2085089055
+#EXTINF:-1,Inspira TV
+http://182.253.35.150:9981/stream/channelid/1994261624
+#EXTINF:-1,BMW TV
+http://182.253.35.150:9981/stream/channelid/1754770
+#EXTINF:-1,Gemilang TV
+http://182.253.35.150:9981/stream/channelid/1965436464
+#EXTINF:-1,Avava Bolywood
+http://182.253.35.150:9981/stream/channelid/1655408736
+#EXTINF:-1,Black Diamond
+http://182.253.35.150:9981/stream/channelid/1986166481
+#EXTINF:-1,Gold Diamond
+http://182.253.35.150:9981/stream/channelid/1842327247
+#EXTINF:-1,Red Diamond
+http://182.253.35.150:9981/stream/channelid/1803982025
+#EXTINF:-1,Blue Ant Extreme
+http://182.253.35.150:9981/stream/channelid/2079483069
+#EXTINF:-1,FOX
+http://182.253.35.150:9981/stream/channelid/1624346210
+#EXTINF:-1,AXN
+http://182.253.35.150:9981/stream/channelid/2033479827
+#EXTINF:-1,Sony Channel
+http://182.253.35.150:9981/stream/channelid/1742502543
+#EXTINF:-1,National Geographic
+http://182.253.35.150:9981/stream/channelid/1758478669
+#EXTINF:-1,Animal Planet
+http://182.253.35.150:9981/stream/channelid/2117345184
+#EXTINF:-1,Crime Investigation
+http://182.253.35.150:9981/stream/channelid/148600963
+#EXTINF:-1,tvN
+http://182.253.35.150:9981/stream/channelid/566925731
+#EXTINF:-1,KBS World
+http://182.253.35.150:9981/stream/channelid/1289920729
+#EXTINF:-1,NAT GEO People
+http://182.253.35.150:9981/stream/channelid/1347769208
+#EXTINF:-1,FOX Sports
+http://182.253.35.150:9981/stream/channelid/2002544971
+#EXTINF:-1,Channel News Asia
+http://182.253.35.150:9981/stream/channelid/1711517583
+#EXTINF:-1,BBC World News
+http://182.253.35.150:9981/stream/channelid/1011948746
+#EXTINF:-1,CNBC
+http://182.253.35.150:9981/stream/channelid/523606867
+#EXTINF:-1,Australia Plus
+http://182.253.35.150:9981/stream/channelid/1307382162
+#EXTINF:-1,iRadio
+http://182.253.35.150:9981/stream/channelid/918267495
