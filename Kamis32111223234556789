@@ -1,3 +1,146 @@
+#EXTINF:-1,LOKAL CHANNEL
+#EXTINF:-1,(ID) NET. SD
+http://rr2.dens.tv/s/s08/index1.m3u8
+#EXTINF:0, group-title="Indonesia",NET HD
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+#EXTINF:0,TRANS7
+http://210.210.155.35/session/aa57f192-b723-11e8-8904-b82a72d63267/qwr9ew/s/s06/02.m3u8
+#EXTINF:0,TRANS TV
+https://stream-02.sg1.dailymotion.com/dm/3/x5b99vx/live-1.m3u8
+#EXTINF:0,TRANSTV
+http://210.210.155.35/session/687d0a28-b723-11e8-a6e4-b82a72d63267/qwr9ew/s/s05/01.m3u8
+
+#EXTINF:-1,TRANSTV
+http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0,TRANS7
+https://stream-03.sg1.dailymotion.com/dm/3/x6p1gw7/live-0.m3u8
+#EXTINF:0,TRANS7
+https://stream-01.sg1.dailymotion.com/dm/3/x6p1gw7/live-2.m3u8
+#EXTINF:0,TRANS7
+https://stream-01.sg1.dailymotion.com/dm/3/x6p1gw7/live-3.m3u8
+
+#EXTINF:-1,TRANS7
+http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0,RCTI
+http://id8.indostreamingtv.com/live/tv6/index.m3u8
+
+#EXTINF:-1,RCTI
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,SCTV
+http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0,MNCTV
+http://id2.indostreamingtv.com/live/event/index.m3u8
+
+#EXTINF:-1,MNC
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MNC
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,INDOSIAR
+http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,ANTV
+http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,GLOBAL TV
+http://202.80.222.174/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,METROTV
+http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0,METROTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w645905961_b1128000_sleng.m3u8
+#EXTINF:0,METROTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w645905961_b1492000_sleng.m3u8
+
+#EXTINF:-1,TV ONE
+http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0,TVONE
+https://stream-02.sg1.dailymotion.com/dm/3/x619221/live-2.m3u8
+#EXTINF:0,TVONE
+https://stream-02.sg1.dailymotion.com/dm/3/x619221/live-3.m3u8
+
+#EXTINF:-1,ANTV
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+
+#EXTINF:-1,RTV
+http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,JTV
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+
+#EXTINF:-1,METROTV HD 1
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
+
+#EXTINF:-1,METROTV HD 2
+http://210.210.155.35/session/7c30f4b4-b6ef-11e8-b712-b82a72d63267/qwr9ew/s/s49/01.m3u8
+
+#EXTINF:-1,iNEWS HD
+http://edge.okezone.com/live/inewsokezone.com.m3u8
+
+#EXTINF:-1,KOMPAS TV
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,SINDO TV
+http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,CELESTIAL MOVIE
+http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
+
+#EXTINF:-1,KIX
+http://210.210.155.35/session/b32c7bf2-c313-11e8-9362-c81f66f89318/uq2663/h/h07/02.m3u8
+
+#EXTINF:-1,MY CINEMA
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+
+#EXTINF:-1,MY KIDS VOD
+http://210.210.155.35/session/e182f600-c3a1-11e8-aa13-a4dba5aaae34/x6bnqe/s/s30/S4/mnf.m3u8
+
+#EXTINF:-1,THRILL
+http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
+
+#EXTINF:-1,ZEE BIOSKOP
+http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/01.m3u8
+#EXTINF:15.3422,FOX SPORTS HD
+
+http://103.242.13.90:5555/udp/239.4.1.47:10000
+#EXTINF:17.4033,Fox Sports 2 OTT
+http://103.242.13.90:5555/udp/239.4.1.48:10000
+#EXTINF:-1,In- Sony Ten 1 HD
+http://194.88.107.95:6204/Tesla/Tesla/8931
+#EXTINF:-1,In- Sony Ten 2 HD
+http://194.88.107.95:6204/Tesla/Tesla/8930
+#EXTINF:-1,In- Sony Ten 3 HD
+http://194.88.107.95:6204/Tesla/Tesla/8929
+
+#EXTINF:0, group-title="SPORT",FOX SPORT 1
+http://45.58.62.92:8080
+#EXTINF:0, group-title="SPORT",FOX SPORT 2
+http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
+
+#EXTINF:0, group-title="SPORT",FOX SPORT 3
+http://210.210.155.35/uq2663/h/h21/index1.m3u8
+
+#EXTINF:-1 tvg-id="BeINSports1ARHD.vaders.tv" tvg-name="AR:BeINSports_HD1" tvg-logo="" group-title="BEIN SPORTS",AR:BeINSports_HD1
+http://hall2mark.ddns.net:80/medoum1/medoum/6907
+#EXTINF:-1 tvg-id="Bein Sports 2" tvg-name="AR:BeINSports_HD2" tvg-logo="" group-title="BEIN SPORTS",AR:BeINSports_HD2
+http://hall2mark.ddns.net:80/medoum1/medoum/6906
+#EXTINF:-1 tvg-id="Bein Sports 3" tvg-name="AR:BeINSports_HD3" tvg-logo="" group-title="BEIN SPORTS",AR:BeINSports_HD3
+http://hall2mark.ddns.net:80/medoum1/medoum/6905
+#EXTINF:-1 tvg-id="Bein Sports 4" tvg-name="AR:BeINSports_HD4" tvg-logo="" group-title="BEIN SPORTS",AR:BeINSports_HD4
+http://hall2mark.ddns.net:80/medoum1/medoum/6904
+#EXTINF:-1 tvg-id="Bein Sports 5" tvg-name="AR:BeINSports_HD5" tvg-logo="" group-title="BEIN SPORTS",AR:BeINSports_HD5
+http://hall2mark.ddns.net:80/medoum1/medoum/6903
+#EXTINF:-1 tvg-id="Bein Sports 6" tvg-name="AR:BeINSports_HD6" tvg-logo="" group-title="BEIN SPORTS",AR:BeINSports_HD6
+http://hall2mark.ddns.net:80/medoum1/medoum/6902
+#EXTINF:-1 tvg-id="Bein Sports 7" tvg-name="AR:BeINSports_HD7" tvg-logo="" group-title="BEIN SPORTS",AR:BeINSports_HD7
+http://hall2mark.ddns.net:80/medoum1/medoum/6901
+#EXTINF:-1 tvg-id="Bein Sports 8" tvg-name="AR:BeINSports_HD8" tvg-logo="" group-title="BEIN SPORTS",AR:BeINSports_HD8
+http://hall2mark.ddns.net:80/medoum1/medoum/6900
+#EXTINF:-1 tvg-id="Bein Sports 9" tvg-name="AR:BeINSports_HD9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3zjkApjux7gLMlbzQOu0jfTm8Ps-PwsHMN0Ky2ZKP26fqnVZi" group-title="BEIN SPORTS",AR:BeINSports_HD9
+http://hall2mark.ddns.net:80/medoum1/medoum/6899
+
 
 
 #EXTINF:-1,HBO Hits
