@@ -1,3 +1,21 @@
+
+#EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV HD" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="Lokal",NET TV HD
+http://tvku.live:8888/live/ricki/rk01/78.ts
+#EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="Lokal",NET TV
+http://tvku.live:8888/live/ricki/rk01/24.ts
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="http://images2.useetv.com/logo_tvri_big1.png?v=1.0.0.0" group-title="News",TVRI
+http://tvku.live:8888/live/ricki/rk01/36.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Jakarta" tvg-logo="" group-title="Lokal",TVRI Jakarta
+http://tvku.live:8888/live/ricki/rk01/727.ts
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="http://images2.useetv.com/logo_transtv_big1.png?v=1.0.0.0" group-title="Lokal",Trans TV
+http://tvku.live:8888/live/ricki/rk01/34.ts
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0" group-title="Lokal",Trans 7
+http://tvku.live:8888/live/ricki/rk01/35.ts
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 Malaysia" tvg-logo="" group-title="Sports",Fox Sports 1 Malaysia
 http://tvku.live:8888/1759427735/8260551120/911
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 Malaysia" tvg-logo="" group-title="Sports",Fox Sports 2 Malaysia
@@ -483,152 +501,7 @@ http://izgemma.ddns.net:8000/office/QazWsxEdc/11309
 http://izgemma.ddns.net:8000/office/QazWsxEdc/31256
 #EXTINF:-1,UK@ Zee News
 http://izgemma.ddns.net:8000/office/QazWsxEdc/15147
-#EXTINF:-1,UK@ B4U Music
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11307
-#EXTINF:-1,UK@ B4U Music (Backup)
-http://izgemma.ddns.net:8000/office/QazWsxEdc/38305
-#EXTINF:-1,UK@ B4U Movies
-http://izgemma.ddns.net:8000/office/QazWsxEdc/283
-#EXTINF:-1,UK@ B4U Movies (Backup)
-http://izgemma.ddns.net:8000/office/QazWsxEdc/38306
-#EXTINF:-1,IN@ B4U Plus
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11323
-#EXTINF:-1,UK@ Sony TV HD
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11308
-#EXTINF:-1,UK@ Sony Mix
-http://izgemma.ddns.net:8000/office/QazWsxEdc/21869
-#EXTINF:-1,UK@ SONY MIX (Backup)
-http://izgemma.ddns.net:8000/office/QazWsxEdc/38307
-#EXTINF:-1,UK@ Sony Max HD
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11907
-#EXTINF:-1,UK@ Sony Max
-http://izgemma.ddns.net:8000/office/QazWsxEdc/38062
-#EXTINF:-1,UK@ SONY MAX (Backup)
-http://izgemma.ddns.net:8000/office/QazWsxEdc/38308
-#EXTINF:-1,UK@ Sony Sab
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11302
-#EXTINF:-1,UK@ And TV
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11291
-#EXTINF:-1,UK@ Sikh Channel
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11862
-#EXTINF:-1,UK@ Aastha
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11322
-#EXTINF:-1,UK@ Akaal Channel
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11887
-#EXTINF:-1,UK@ PTC Punjabi
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11737
-#EXTINF:-1,UK@ Sangat
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11743
-#EXTINF:-1,UK@ Brit Asia TV
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11306
-#EXTINF:-1,UK@ Venus TV..
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11757
-#EXTINF:-1,UK@ ABP News
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11369
-#EXTINF:-1,UK@ Times Now
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11899
-#EXTINF:-1,UK@ NDTV 24x7
-http://izgemma.ddns.net:8000/office/QazWsxEdc/13469
-#EXTINF:-1,UK@ Star Plus HD
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11286
-#EXTINF:-1,UK@ UK92 News
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11359
-#EXTINF:-1,UK@ Ary Family
-http://izgemma.ddns.net:8000/office/QazWsxEdc/24462
-#EXTINF:-1,UK@ New Vision TV
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11749
-#EXTINF:-1,UK@ Samaa
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11287
-#EXTINF:-1,UK@ Channel 44
-http://izgemma.ddns.net:8000/office/QazWsxEdc/12595
-#EXTINF:-1,UK@ Dunya News
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11288
-#EXTINF:-1,PK@ News One
-http://izgemma.ddns.net:8000/office/QazWsxEdc/14122
-#EXTINF:-1,PK@ Ary News
-http://izgemma.ddns.net:8000/office/QazWsxEdc/14123
-#EXTINF:-1,UK@ PTV Global
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11756
-#EXTINF:-1,UK@ PTV Prime
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11880
-#EXTINF:-1,UK@ Hum Europe
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11297
-#EXTINF:-1,UK@ Hum Masala
-http://izgemma.ddns.net:8000/office/QazWsxEdc/14127
-#EXTINF:-1,UK@ Hum News
-http://izgemma.ddns.net:8000/office/QazWsxEdc/21855
-#EXTINF:-1,UK@ Geo News
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11293
-#EXTINF:-1,UK@ Geo Kahani
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11294
-#EXTINF:-1,UK@ Geo TV
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11295
-#EXTINF:-1,UK@ GEO Entertainment
-http://izgemma.ddns.net:8000/office/QazWsxEdc/38180
-#EXTINF:-1,UK@ Aplus TV
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11357
-#EXTINF:-1,SU: Saudi Makkah
-http://izgemma.ddns.net:8000/office/QazWsxEdc/37300
-#EXTINF:-1,UK@ Islam Channel
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11292
-#EXTINF:-1,UK@ Peace TV English
-http://izgemma.ddns.net:8000/office/QazWsxEdc/14128
-#EXTINF:-1,UK@ PeaceTV Urdu
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11879
-#EXTINF:-1,UK@ Iqra  TV
-http://izgemma.ddns.net:8000/office/QazWsxEdc/12582
-#EXTINF:-1,UK@ Noor TV
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11740
-#EXTINF:-1,UK@ Madani Channel
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11777
-#EXTINF:-1,UK@ Eman Channel
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11745
-#EXTINF:-1,UK@ British Muslim
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11910
-#EXTINF:-1,UK@ Hidayat TV
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11758
-#EXTINF:-1,UK@ mta-muslim tv
-http://izgemma.ddns.net:8000/office/QazWsxEdc/11902
-#EXTINF:-1,PK@ PTV Sports
-http://izgemma.ddns.net:8000/office/QazWsxEdc/37301
-#EXTINF:-1,PK@ ARY Digital
-http://izgemma.ddns.net:8000/office/QazWsxEdc/37302
-#EXTINF:-1,PK@ Express News
-http://izgemma.ddns.net:8000/office/QazWsxEdc/37304
-#EXTINF:-1,PK@ Ary QTV
-http://izgemma.ddns.net:8000/office/QazWsxEdc/21752
-#EXTINF:-1,PK@ Ary Zaika
-http://izgemma.ddns.net:8000/office/QazWsxEdc/21753
-#EXTINF:-1,PK@ Ary Musik
-http://izgemma.ddns.net:8000/office/QazWsxEdc/21754
-#EXTINF:-1,PK@ Capital News
-http://izgemma.ddns.net:8000/office/QazWsxEdc/21755
-#EXTINF:-1,Star Media Top Gear
-http://izgemma.ddns.net:8000/office/QazWsxEdc/37969
-#EXTINF:-1,UK@ BBC Entertainment
-http://izgemma.ddns.net:8000/office/QazWsxEdc/32935
-#EXTINF:-1,UK@ BBC One West Midlands
-http://izgemma.ddns.net:8000/office/QazWsxEdc/37993
-#EXTINF:-1,UK@ BBC One North West
-http://izgemma.ddns.net:8000/office/QazWsxEdc/37861
-#EXTINF:-1,UK@ BBC Two HD
-http://izgemma.ddns.net:8000/office/QazWsxEdc/31971
-#EXTINF:-1,UK@ BBC Two (Backup)
-http://izgemma.ddns.net:8000/office/QazWsxEdc/27023
-#EXTINF:-1,UK@ ITV HD
-http://izgemma.ddns.net:8000/office/QazWsxEdc/36958
-#EXTINF:-1,UK@ ITV Central HD
-http://izgemma.ddns.net:8000/office/QazWsxEdc/35123
-#EXTINF:-1,UK@ ITV London  HD
-http://izgemma.ddns.net:8000/office/QazWsxEdc/38030
-#EXTINF:-1,UK@ Channel 4 HD
-http://izgemma.ddns.net:8000/office/QazWsxEdc/33270
-#EXTINF:-1,UK@ Channel 4 (Backup)
-http://izgemma.ddns.net:8000/office/QazWsxEdc/37413
-#EXTINF:-1,UK@ Channel 5 HD
-http://izgemma.ddns.net:8000/office/QazWsxEdc/29192
-#EXTINF:-1,UK@ Channel 5 (Backup)
-http://izgemma.ddns.net:8000/office/QazWsxEdc/38090
+
 #EXTINF:-1,UK@ Sky One HD
 http://izgemma.ddns.net:8000/office/QazWsxEdc/11349
 #EXTINF:-1,UK@ Sky 1 (Backup)
@@ -1566,71 +1439,12 @@ http://izgemma.ddns.net:8000/office/QazWsxEdc/8125
 #EXTINF:-1,Afg: Kayhan TV (.)
 http://izgemma.ddns.net:8000/office/QazWsxEdc/336
 
-#EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC1" tvg-logo="" group-title="Arabic",AR:MBC1
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1635.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC2" tvg-logo="" group-title="Arabic",AR:MBC2
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1636.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC3" tvg-logo="" group-title="Arabic",AR:MBC3
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1637.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC4" tvg-logo="" group-title="Arabic",AR:MBC4
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1638.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC_MAX" tvg-logo="" group-title="Arabic",AR:MBC_MAX
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1642.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC_Masr" tvg-logo="" group-title="Arabic",AR:MBC_Masr
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1640.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC_Drama" tvg-logo="" group-title="Arabic",AR:MBC_Drama
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1639.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC_Bollywood" tvg-logo="" group-title="Arabic",AR:MBC_Bollywood
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1644.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC_Action" tvg-logo="" group-title="Arabic",AR:MBC_Action
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1643.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC_Varity" tvg-logo="" group-title="Arabic",AR:MBC_Varity
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1641.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR:Zee_Alwan" tvg-logo="" group-title="Arabic",AR:Zee_Alwan
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1653.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR:Zee_Aflam" tvg-logo="" group-title="Arabic",AR:Zee_Aflam
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1654.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR:Tube_Cinema" tvg-logo="" group-title="Arabic",AR:Tube_Cinema
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1655.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="AR:Saudi_Sunnah" tvg-logo="" group-title="Arabic",AR:Saudi_Sunnah
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1651.ts
 #EXTINF:-1 tvg-ID="" tvg-name="AR:Saudi_Quran" tvg-logo="" group-title="Arabic",AR:Saudi_Quran
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1650.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR:Rotana_Drama" tvg-logo="" group-title="Arabic",AR:Rotana_Drama
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1657.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR:Rotana_Cinema" tvg-logo="" group-title="Arabic",AR:Rotana_Cinema
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1658.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR:Rotana_Aflam" tvg-logo="" group-title="Arabic",AR:Rotana_Aflam
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1659.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR:Panorama_Film" tvg-logo="" group-title="Arabic",AR:Panorama_Film
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1660.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR:Nessma_Tunis" tvg-logo="" group-title="Arabic",AR:Nessma_Tunis
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1661.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR:National_Geo" tvg-logo="" group-title="Arabic",AR:National_Geo
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1652.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR:Melody_Classic" tvg-logo="" group-title="Arabic",AR:Melody_Classic
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1662.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR:Kids_Kokky_TV" tvg-logo="" group-title="Arabic",AR:Kids_Kokky_TV
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1663.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR:El_Bilad_Algeria" tvg-logo="" group-title="Arabic",AR:El_Bilad_Algeria
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1627.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR:Echourouk_news_Algeria" tvg-logo="" group-title="Arabic",AR:Echourouk_news_Algeria
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1625.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR:Echourouk_BENNA_Algeria" tvg-logo="" group-title="Arabic",AR:Echourouk_BENNA_Algeria
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1626.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR:Cairo_Drama" tvg-logo="" group-title="Arabic",AR:Cairo_Drama
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1665.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR:Cairo_Cinema" tvg-logo="" group-title="Arabic",AR:Cairo_Cinema
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1666.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR:Arryadia_Maroc" tvg-logo="" group-title="Arabic",AR:Arryadia_Maroc
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1632.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR:Arrabiaa_Maroc" tvg-logo="" group-title="Arabic",AR:Arrabiaa_Maroc
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1633.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR:AR:Medi1_maroc" tvg-logo="" group-title="Arabic",AR:AR:Medi1_maroc
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1634.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AR:AR:France24_Arabic" tvg-logo="" group-title="Arabic",AR:AR:France24_Arabic
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1667.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="AR:AR:DubaiTV" tvg-logo="" group-title="Arabic",AR:AR:DubaiTV
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1668.ts
 #EXTINF:-1 tvg-ID="" tvg-name="AR:AR:Al_Jazeera_Mubasher" tvg-logo="" group-title="Arabic",AR:AR:Al_Jazeera_Mubasher
@@ -1649,108 +1463,14 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1629.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1630.ts
 #EXTINF:-1 tvg-ID="" tvg-name="AR:2M_Maroc" tvg-logo="" group-title="Arabic",AR:2M_Maroc
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1631.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: VH1" tvg-logo="" group-title="PORTUGUES",PT: VH1
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1186.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: TVI REALITY HD" tvg-logo="" group-title="PORTUGUES",PT: TVI REALITY HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1117.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: TVI REALITY" tvg-logo="" group-title="PORTUGUES",PT: TVI REALITY
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1118.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: TVI FICCAO" tvg-logo="" group-title="PORTUGUES",PT: TVI FICCAO
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1116.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: TVI 24" tvg-logo="" group-title="PORTUGUES",PT: TVI 24
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1114.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: TVI" tvg-logo="" group-title="PORTUGUES",PT: TVI
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1112.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: TV SERIES HD" tvg-logo="" group-title="PORTUGUES",PT: TV SERIES HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1123.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: TV Record" tvg-logo="" group-title="PORTUGUES",PT: TV Record
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1199.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: TV PALAMENTO" tvg-logo="" group-title="PORTUGUES",PT: TV PALAMENTO
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1158.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: TV GLOBO PORTUGAL" tvg-logo="" group-title="PORTUGUES",PT: TV GLOBO PORTUGAL
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1201.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: TV CINE 4 HD" tvg-logo="" group-title="PORTUGUES",PT: TV CINE 4 HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1122.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: TV CINE 3 HD" tvg-logo="" group-title="PORTUGUES",PT: TV CINE 3 HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1121.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: TV CINE 2 HD" tvg-logo="" group-title="PORTUGUES",PT: TV CINE 2 HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1120.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: TV CINE 1 HD" tvg-logo="" group-title="PORTUGUES",PT: TV CINE 1 HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1119.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: TOROS TV" tvg-logo="" group-title="PORTUGUES",PT: TOROS TV
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1178.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: TLC" tvg-logo="" group-title="PORTUGUES",PT: TLC
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1179.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SYFY HD" tvg-logo="" group-title="PORTUGUES",PT: SYFY HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1138.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SYFY" tvg-logo="" group-title="PORTUGUES",PT: SYFY
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1137.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORTV 4 FHD" tvg-logo="" group-title="PORTUGUES",PT: SPORTV 4 FHD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1148.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORTV 3 FHD" tvg-logo="" group-title="PORTUGUES",PT: SPORTV 3 FHD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1147.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORTV 2 FHD" tvg-logo="" group-title="PORTUGUES",PT: SPORTV 2 FHD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1146.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORTV 1 HD" tvg-logo="" group-title="PORTUGUES",PT: SPORTV 1 HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1145.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORTV 1 FHD" tvg-logo="" group-title="PORTUGUES",PT: SPORTV 1 FHD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1149.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORTING TV" tvg-logo="" group-title="PORTUGUES",PT: SPORTING TV
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1154.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 5" tvg-logo="" group-title="PORTUGUES",PT: SPORT TV 5
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1159.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 4" tvg-logo="" group-title="PORTUGUES",PT: SPORT TV 4
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1144.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 3 SD" tvg-logo="" group-title="PORTUGUES",PT: SPORT TV 3 SD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1143.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 2  SD" tvg-logo="" group-title="PORTUGUES",PT: SPORT TV 2  SD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1142.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 2  HD" tvg-logo="" group-title="PORTUGUES",PT: SPORT TV 2  HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1140.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 1 SD" tvg-logo="" group-title="PORTUGUES",PT: SPORT TV 1 SD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1141.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV" tvg-logo="" group-title="PORTUGUES",PT: SPORT TV
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1139.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SIC RADICAL" tvg-logo="" group-title="PORTUGUES",PT: SIC RADICAL
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1166.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SIC NOTICIAS" tvg-logo="" group-title="PORTUGUES",PT: SIC NOTICIAS
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1113.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SIC MULHER" tvg-logo="" group-title="PORTUGUES",PT: SIC MULHER
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1167.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SIC K" tvg-logo="" group-title="PORTUGUES",PT: SIC K
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1188.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SIC CARAS" tvg-logo="" group-title="PORTUGUES",PT: SIC CARAS
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1168.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SIC" tvg-logo="" group-title="PORTUGUES",PT: SIC
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1111.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: RTP MEMORIA" tvg-logo="" group-title="PORTUGUES",PT: RTP MEMORIA
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1162.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: RTP MADEIRA" tvg-logo="" group-title="PORTUGUES",PT: RTP MADEIRA
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1163.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: RTP INT" tvg-logo="" group-title="PORTUGUES",PT: RTP INT
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1161.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: RTP AFRICA" tvg-logo="" group-title="PORTUGUES",PT: RTP AFRICA
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1164.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: RTP ACORES" tvg-logo="" group-title="PORTUGUES",PT: RTP ACORES
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1165.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: RTP 3" tvg-logo="" group-title="PORTUGUES",PT: RTP 3
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1110.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: RTP 2" tvg-logo="" group-title="PORTUGUES",PT: RTP 2
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1109.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: RTP 1" tvg-logo="" group-title="PORTUGUES",PT: RTP 1
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1108.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="PT: Real Madrid TV" tvg-logo="" group-title="PORTUGUES",PT: Real Madrid TV
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1187.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PT: PORTO CANAL" tvg-logo="" group-title="PORTUGUES",PT: PORTO CANAL
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1153.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PT: PFC" tvg-logo="" group-title="PORTUGUES",PT: PFC
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1198.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: PANDA BIGGS HD" tvg-logo="" group-title="PORTUGUES",PT: PANDA BIGGS HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1191.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: PANDA BIGGS" tvg-logo="" group-title="PORTUGUES",PT: PANDA BIGGS
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1203.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: ODISSEIA" tvg-logo="" group-title="PORTUGUES",PT: ODISSEIA
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1173.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="PT: NICKELODEON" tvg-logo="" group-title="PORTUGUES",PT: NICKELODEON
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1192.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PT: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="PORTUGUES",PT: NATIONAL GEOGRAPHIC HD
@@ -1763,18 +1483,7 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1184.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1126.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PT: MOTORS TV" tvg-logo="" group-title="PORTUGUES",PT: MOTORS TV
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1169.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: MCS Extreme" tvg-logo="" group-title="PORTUGUES",PT: MCS Extreme
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1152.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: MCM POP" tvg-logo="" group-title="PORTUGUES",PT: MCM POP
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1185.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: JIM JAM" tvg-logo="" group-title="PORTUGUES",PT: JIM JAM
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1194.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: HOLLYWOD" tvg-logo="" group-title="PORTUGUES",PT: HOLLYWOD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1125.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: GLOBO PREMIUM" tvg-logo="" group-title="PORTUGUES",PT: GLOBO PREMIUM
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1200.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: FUEL TV" tvg-logo="" group-title="PORTUGUES",PT: FUEL TV
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1182.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="PT: FOX MOVIES" tvg-logo="" group-title="PORTUGUES",PT: FOX MOVIES
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1131.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PT: FOX LIFE HD" tvg-logo="" group-title="PORTUGUES",PT: FOX LIFE HD
@@ -1791,10 +1500,7 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1135.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1157.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PT: EUROSPORT 1" tvg-logo="" group-title="PORTUGUES",PT: EUROSPORT 1
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1156.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Euronews" tvg-logo="" group-title="PORTUGUES",PT: Euronews
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1205.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: E! ENTERTAINMENT" tvg-logo="" group-title="PORTUGUES",PT: E! ENTERTAINMENT
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1181.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="PT: DISNEY JUNIOR" tvg-logo="" group-title="PORTUGUES",PT: DISNEY JUNIOR
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1189.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PT: DISNEY CHANNEL" tvg-logo="" group-title="PORTUGUES",PT: DISNEY CHANNEL
@@ -1803,10 +1509,7 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1190.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1204.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="" group-title="PORTUGUES",PT: DISCOVERY CHANNEL
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1170.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: CMTV" tvg-logo="" group-title="PORTUGUES",PT: CMTV
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1115.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: CINEMUNDO" tvg-logo="" group-title="PORTUGUES",PT: CINEMUNDO
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1124.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="PT: CHELSEA TV" tvg-logo="" group-title="PORTUGUES",PT: CHELSEA TV
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1160.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PT: CBS REALITY" tvg-logo="" group-title="PORTUGUES",PT: CBS REALITY
@@ -1817,12 +1520,7 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1195.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1196.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PT: CANAL HISTORIA" tvg-logo="" group-title="PORTUGUES",PT: CANAL HISTORIA
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1174.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: CACAVISION" tvg-logo="" group-title="PORTUGUES",PT: CACAVISION
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1176.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: CACA E PESCA" tvg-logo="" group-title="PORTUGUES",PT: CACA E PESCA
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1175.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: BENFICA TV 1 FHD" tvg-logo="" group-title="PORTUGUES",PT: BENFICA TV 1 FHD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1151.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="PT: BENFICA TV 1" tvg-logo="" group-title="PORTUGUES",PT: BENFICA TV 1
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1150.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PT: BABY TV" tvg-logo="" group-title="PORTUGUES",PT: BABY TV
@@ -1841,8 +1539,7 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1183.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1177.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PT: A BOLA TV" tvg-logo="" group-title="PORTUGUES",PT: A BOLA TV
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1155.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: 24 Kitchen HD" tvg-logo="" group-title="PORTUGUES",PT: 24 Kitchen HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1197.ts
+ 
 #EXTINF:-1 tvg-ID="" tvg-name="ES|_Real_Madrid_Tv" tvg-logo="" group-title="SPAIN",ES|_Real_Madrid_Tv
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1349.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ES|_LA_LIGA_TV" tvg-logo="" group-title="SPAIN",ES|_LA_LIGA_TV
@@ -1853,77 +1550,10 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1348.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1335.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ES:_0_HD" tvg-logo="" group-title="SPAIN",ES:_0_HD
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1377.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:VTV" tvg-logo="" group-title="SPAIN",ES:VTV
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1318.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:TVN_CHILE_HD" tvg-logo="" group-title="SPAIN",ES:TVN_CHILE_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1325.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:TVE_La_2" tvg-logo="" group-title="SPAIN",ES:TVE_La_2
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1303.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:TVE_LA2" tvg-logo="" group-title="SPAIN",ES:TVE_LA2
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1301.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:TVE_LA1" tvg-logo="" group-title="SPAIN",ES:TVE_LA1
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1300.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:TVE_24_Horas" tvg-logo="" group-title="SPAIN",ES:TVE_24_Horas
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1321.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:TV3_24" tvg-logo="" group-title="SPAIN",ES:TV3_24
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1423.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:TV GALICIA" tvg-logo="" group-title="SPAIN",ES:TV GALICIA
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1333.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:TNT" tvg-logo="" group-title="SPAIN",ES:TNT
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1392.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:TELEDEPORTE_HD" tvg-logo="" group-title="SPAIN",ES:TELEDEPORTE_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1350.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:TELEDEPORTE" tvg-logo="" group-title="SPAIN",ES:TELEDEPORTE
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1351.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:Telecinco" tvg-logo="" group-title="SPAIN",ES:Telecinco
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1308.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:TELE5" tvg-logo="" group-title="SPAIN",ES:TELE5
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1307.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:TCM" tvg-logo="" group-title="SPAIN",ES:TCM
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1393.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:TAQUILLA_10" tvg-logo="" group-title="SPAIN",ES:TAQUILLA_10
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1443.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:TAQUILLA9" tvg-logo="" group-title="SPAIN",ES:TAQUILLA9
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1442.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:TAQUILLA8" tvg-logo="" group-title="SPAIN",ES:TAQUILLA8
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1441.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:TAQUILLA7" tvg-logo="" group-title="SPAIN",ES:TAQUILLA7
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1440.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:Taquilla6" tvg-logo="" group-title="SPAIN",ES:Taquilla6
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1439.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:Taquilla5" tvg-logo="" group-title="SPAIN",ES:Taquilla5
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1438.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:Taquilla4" tvg-logo="" group-title="SPAIN",ES:Taquilla4
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1437.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:Taquilla3" tvg-logo="" group-title="SPAIN",ES:Taquilla3
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1436.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:Taquilla2" tvg-logo="" group-title="SPAIN",ES:Taquilla2
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1435.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:Taquilla1" tvg-logo="" group-title="SPAIN",ES:Taquilla1
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1434.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:SYFY_HD" tvg-logo="" group-title="SPAIN",ES:SYFY_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1388.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:SYFY" tvg-logo="" group-title="SPAIN",ES:SYFY
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1389.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:SUNDANCE" tvg-logo="" group-title="SPAIN",ES:SUNDANCE
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1344.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:RTVE" tvg-logo="" group-title="SPAIN",ES:RTVE
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1320.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:RTP ASTURIAS" tvg-logo="" group-title="SPAIN",ES:RTP ASTURIAS
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1347.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:RT" tvg-logo="" group-title="SPAIN",ES:RT
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1430.ts
+ 
 #EXTINF:-1 tvg-ID="" tvg-name="ES:Real_Madrid_tv" tvg-logo="" group-title="SPAIN",ES:Real_Madrid_tv
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1345.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:QUATRO_HD" tvg-logo="" group-title="SPAIN",ES:QUATRO_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1305.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:paramount_HD" tvg-logo="" group-title="SPAIN",ES:paramount_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1398.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:PARAMOUNT" tvg-logo="" group-title="SPAIN",ES:PARAMOUNT
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1399.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:ODISSEA" tvg-logo="" group-title="SPAIN",ES:ODISSEA
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1416.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:ODESEA" tvg-logo="" group-title="SPAIN",ES:ODESEA
+ 
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1415.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ES:N_QUATRO_HD" tvg-logo="" group-title="SPAIN",ES:N_QUATRO_HD
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1306.ts
@@ -1941,9 +1571,7 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1317.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1411.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ES:NATIONALGEO_WILD_HD" tvg-logo="" group-title="SPAIN",ES:NATIONALGEO_WILD_HD
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1410.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:M_XTRA_HD" tvg-logo="" group-title="SPAIN",ES:M_XTRA_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1369.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:M_TOROS" tvg-logo="" group-title="SPAIN",ES:M_TOROS
+ 
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1375.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ES:M_SERIES_XTRA_HD" tvg-logo="" group-title="SPAIN",ES:M_SERIES_XTRA_HD
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1370.ts
@@ -1953,17 +1581,7 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1355.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1327.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ES:M_FOOTBALL_HD" tvg-logo="" group-title="SPAIN",ES:M_FOOTBALL_HD
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1326.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:M_F1_HD" tvg-logo="" group-title="SPAIN",ES:M_F1_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1357.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:M_ESTRENOS_HD" tvg-logo="" group-title="SPAIN",ES:M_ESTRENOS_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1366.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:M_DEPORTES_HD" tvg-logo="" group-title="SPAIN",ES:M_DEPORTES_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1340.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:M_DEPORTES2_HD" tvg-logo="" group-title="SPAIN",ES:M_DEPORTES2_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1342.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:M_DEPORTES2" tvg-logo="" group-title="SPAIN",ES:M_DEPORTES2
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1343.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:M_DEPORTES1" tvg-logo="" group-title="SPAIN",ES:M_DEPORTES1
+ 
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1341.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ES:M_DCINE_HD" tvg-logo="" group-title="SPAIN",ES:M_DCINE_HD
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1362.ts
@@ -1977,11 +1595,7 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1361.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1373.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ES:M_ACCION_HD" tvg-logo="" group-title="SPAIN",ES:M_ACCION_HD
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1363.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:MXTRA_HD" tvg-logo="" group-title="SPAIN",ES:MXTRA_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1368.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:MTV_HD" tvg-logo="" group-title="SPAIN",ES:MTV_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1432.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:MSERIES" tvg-logo="" group-title="SPAIN",ES:MSERIES
+ 
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1374.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ES:MOVISTF1" tvg-logo="" group-title="SPAIN",ES:MOVISTF1
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1358.ts
@@ -1990,14 +1604,7 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1372.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ES:MOTOGP_HD" tvg-logo="" group-title="SPAIN",ES:MOTOGP_HD
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1359.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ES:MOTOGP" tvg-logo="" group-title="SPAIN",ES:MOTOGP
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1360.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:MEZZO" tvg-logo="" group-title="SPAIN",ES:MEZZO
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1433.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:MEGA_TV" tvg-logo="" group-title="SPAIN",ES:MEGA_TV
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1314.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:La_Sexta_hd" tvg-logo="" group-title="SPAIN",ES:La_Sexta_hd
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1309.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:La_Sexta" tvg-logo="" group-title="SPAIN",ES:La_Sexta
+ 
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1310.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ES:LA_LIGA_BAR_HD" tvg-logo="" group-title="SPAIN",ES:LA_LIGA_BAR_HD
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1337.ts
@@ -2023,8 +1630,7 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1382.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1383.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ES:FOX" tvg-logo="" group-title="SPAIN",ES:FOX
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1384.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:Fdf" tvg-logo="" group-title="SPAIN",ES:Fdf
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1390.ts
+ 
 #EXTINF:-1 tvg-ID="" tvg-name="ES:eurosport2" tvg-logo="" group-title="SPAIN",ES:eurosport2
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1353.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ES:eurosport1" tvg-logo="" group-title="SPAIN",ES:eurosport1
@@ -2041,11 +1647,7 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1367.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1417.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ES:DCINE_ESPANOL" tvg-logo="" group-title="SPAIN",ES:DCINE_ESPANOL
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1365.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:Cuatro" tvg-logo="" group-title="SPAIN",ES:Cuatro
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1304.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:COSMO_HD" tvg-logo="" group-title="SPAIN",ES:COSMO_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1313.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:concao_nova" tvg-logo="" group-title="SPAIN",ES:concao_nova
+ 
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1419.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ES:COMEDY_CENTRAL" tvg-logo="" group-title="SPAIN",ES:COMEDY_CENTRAL
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1385.ts
@@ -2061,25 +1663,8 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1403.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1330.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ES:CANAL_HOLLYWOOD" tvg-logo="" group-title="SPAIN",ES:CANAL_HOLLYWOOD
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1400.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:CANAL_DECASA" tvg-logo="" group-title="SPAIN",ES:CANAL_DECASA
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1412.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:CANAL_COCINA" tvg-logo="" group-title="SPAIN",ES:CANAL_COCINA
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1427.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:CANAL_7" tvg-logo="" group-title="SPAIN",ES:CANAL_7
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1420.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:CANAL_13" tvg-logo="" group-title="SPAIN",ES:CANAL_13
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1379.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:canal41" tvg-logo="" group-title="SPAIN",ES:canal41
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1421.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:CANAL0_HD" tvg-logo="" group-title="SPAIN",ES:CANAL0_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1376.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:CANAL.SUR.A." tvg-logo="" group-title="SPAIN",ES:CANAL.SUR.A.
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1402.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:Canal Extremadura" tvg-logo="" group-title="SPAIN",ES:Canal Extremadura
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1394.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:CALLE_13" tvg-logo="" group-title="SPAIN",ES:CALLE_13
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1380.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:BOING_HD" tvg-logo="" group-title="SPAIN",ES:BOING_HD
+ 
+  
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1409.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ES:BLICA_DOMINICANA" tvg-logo="" group-title="SPAIN",ES:BLICA_DOMINICANA
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1429.ts
@@ -2107,41 +1692,11 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1408.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1422.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ES:AZMUNDO" tvg-logo="" group-title="SPAIN",ES:AZMUNDO
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1426.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:AXN_WHITE" tvg-logo="" group-title="SPAIN",ES:AXN_WHITE
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1386.ts
+ 
 #EXTINF:-1 tvg-ID="" tvg-name="ES:AXN" tvg-logo="" group-title="SPAIN",ES:AXN
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1387.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:ATRESERIES_HD" tvg-logo="" group-title="SPAIN",ES:ATRESERIES_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1401.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:ANTENNA3_HD" tvg-logo="" group-title="SPAIN",ES:ANTENNA3_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1312.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:ANTENNA3" tvg-logo="" group-title="SPAIN",ES:ANTENNA3
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1311.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:AMC_HD" tvg-logo="" group-title="SPAIN",ES:AMC_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1395.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:AMC" tvg-logo="" group-title="SPAIN",ES:AMC
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1396.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:Alpha" tvg-logo="" group-title="SPAIN",ES:Alpha
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1322.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:ALFA" tvg-logo="" group-title="SPAIN",ES:ALFA
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1397.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:40_TV" tvg-logo="" group-title="SPAIN",ES:40_TV
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1319.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:3/24" tvg-logo="" group-title="SPAIN",ES:3/24
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1425.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES:#0_HD_ES" tvg-logo="" group-title="SPAIN",ES:#0_HD_ES
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1378.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IR:VARZIESH 1000" tvg-logo="" group-title="Iranian",IR:VARZIESH 1000
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1572.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IR:TV 3" tvg-logo="" group-title="Iranian",IR:TV 3
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1575.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IR:RTE NEWS" tvg-logo="" group-title="Iranian",IR:RTE NEWS
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1559.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IR:RTE 2 HD" tvg-logo="" group-title="Iranian",IR:RTE 2 HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1561.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IR:RATE 1 HD" tvg-logo="" group-title="Iranian",IR:RATE 1 HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1560.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IR:PMC" tvg-logo="" group-title="Iranian",IR:PMC
+ 
+ 
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1576.ts
 #EXTINF:-1 tvg-ID="" tvg-name="IR:I FILM ENGLISH" tvg-logo="" group-title="Iranian",IR:I FILM ENGLISH
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1562.ts
@@ -2165,37 +1720,11 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1569.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1570.ts
 #EXTINF:-1 tvg-ID="" tvg-name="IR:GEM JUNIOR" tvg-logo="" group-title="Iranian",IR:GEM JUNIOR
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1571.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IR:GEM BOLLYWOOD" tvg-logo="" group-title="Iranian",IR:GEM BOLLYWOOD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1573.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR:TV 100" tvg-logo="" group-title="Greek",GR:TV 100
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1538.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR:STAR BK" tvg-logo="" group-title="Greek",GR:STAR BK
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1530.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR:STAR" tvg-logo="" group-title="Greek",GR:STAR
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1539.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR:SIGMA" tvg-logo="" group-title="Greek",GR:SIGMA
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1540.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR:PUBLIC TV" tvg-logo="" group-title="Greek",GR:PUBLIC TV
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1525.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR:OMEGA" tvg-logo="" group-title="Greek",GR:OMEGA
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1541.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR:NET TV" tvg-logo="" group-title="Greek",GR:NET TV
+ 
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1542.ts
 #EXTINF:-1 tvg-ID="" tvg-name="GR:NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Greek",GR:NATIONAL GEOGRAPHIC HD
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1532.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR:MEGA TV" tvg-logo="" group-title="Greek",GR:MEGA TV
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1533.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR:MEGA" tvg-logo="" group-title="Greek",GR:MEGA
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1543.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR:MAD" tvg-logo="" group-title="Greek",GR:MAD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1544.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR:KRHTH TV" tvg-logo="" group-title="Greek",GR:KRHTH TV
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1528.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR:KONTRA" tvg-logo="" group-title="Greek",GR:KONTRA
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1534.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR:EPT HD" tvg-logo="" group-title="Greek",GR:EPT HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1535.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR:EPT 2" tvg-logo="" group-title="Greek",GR:EPT 2
+ 
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1536.ts
 #EXTINF:-1 tvg-ID="" tvg-name="GR:EPSI MOVIE 5" tvg-logo="" group-title="Greek",GR:EPSI MOVIE 5
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1553.ts
@@ -2207,49 +1736,11 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1555.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1556.ts
 #EXTINF:-1 tvg-ID="" tvg-name="GR:Epic Movie 1" tvg-logo="" group-title="Greek",GR:Epic Movie 1
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1557.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR:CUATEO HD" tvg-logo="" group-title="Greek",GR:CUATEO HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1537.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR:ASTRA TV" tvg-logo="" group-title="Greek",GR:ASTRA TV
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1527.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR:ANT1" tvg-logo="" group-title="Greek",GR:ANT1
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1545.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR:ALPHA TV" tvg-logo="" group-title="Greek",GR:ALPHA TV
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1546.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR:ALPHA CY" tvg-logo="" group-title="Greek",GR:ALPHA CY
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1531.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR:ALPHA BK" tvg-logo="" group-title="Greek",GR:ALPHA BK
+ 
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1526.ts
 #EXTINF:-1 tvg-ID="" tvg-name="GR:ACTION 24" tvg-logo="" group-title="Greek",GR:ACTION 24
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1558.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GR:4E" tvg-logo="" group-title="Greek",GR:4E
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1529.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Global" tvg-logo="" group-title="CANADA",Global
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1444.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOXVan" tvg-logo="" group-title="CANADA",FOXVan
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1448.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CW" tvg-logo="" group-title="CANADA",CW
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1453.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CTVEnglish" tvg-logo="" group-title="CANADA",CTVEnglish
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1452.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CTV2English" tvg-logo="" group-title="CANADA",CTV2English
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1451.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CityTv" tvg-logo="" group-title="CANADA",CityTv
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1446.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CHEK" tvg-logo="" group-title="CANADA",CHEK
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1454.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CBS" tvg-logo="" group-title="CANADA",CBS
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1449.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CBCEN" tvg-logo="" group-title="CANADA",CBCEN
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1455.ts
-#EXTINF:-1 tvg-ID="" tvg-name="abc" tvg-logo="" group-title="CANADA",abc
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1445.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RO_TVR 3" tvg-logo="" group-title="Romanian",RO_TVR 3
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1107.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RO_TVR 2" tvg-logo="" group-title="Romanian",RO_TVR 2
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1106.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RO_TVR 1" tvg-logo="" group-title="Romanian",RO_TVR 1
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1105.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RO_PRO-TV Hd" tvg-logo="" group-title="Romanian",RO_PRO-TV Hd
+ 
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1104.ts
 #EXTINF:-1 tvg-ID="" tvg-name="RO_HBO Hd" tvg-logo="" group-title="Romanian",RO_HBO Hd
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1103.ts
@@ -2267,13 +1758,7 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1098.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1097.ts
 #EXTINF:-1 tvg-ID="" tvg-name="RO_Digi Sport 1" tvg-logo="" group-title="Romanian",RO_Digi Sport 1
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1096.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RO_Digi 24" tvg-logo="" group-title="Romanian",RO_Digi 24
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1095.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RO_Antena Stars" tvg-logo="" group-title="Romanian",RO_Antena Stars
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1093.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RO_Antena 3" tvg-logo="" group-title="Romanian",RO_Antena 3
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1092.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RO_Antena 1" tvg-logo="" group-title="Romanian",RO_Antena 1
+ 
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1091.ts
 #EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN_Sports_Cricket" tvg-logo="" group-title="OSN",OSN:OSN_Sports_Cricket
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1269.ts
@@ -2283,13 +1768,7 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1268.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1267.ts
 #EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN_Sports_1" tvg-logo="" group-title="OSN",OSN:OSN_Sports_1
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1266.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN_On_Demand_Extra_2" tvg-logo="" group-title="OSN",OSN:OSN_On_Demand_Extra_2
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1299.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN_On_Demand_Extra_1" tvg-logo="" group-title="OSN",OSN:OSN_On_Demand_Extra_1
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1298.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN_On_Demand_2" tvg-logo="" group-title="OSN",OSN:OSN_On_Demand_2
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1297.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN_On_Demand_1" tvg-logo="" group-title="OSN",OSN:OSN_On_Demand_1
+ 
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1296.ts
 #EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN_Nickelodeon_Junior_(Audio-EN)" tvg-logo="" group-title="OSN",OSN:OSN_Nickelodeon_Junior_(Audio-EN)
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1280.ts
@@ -2303,41 +1782,7 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1277.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1291.ts
 #EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN-YaHala-First-2-HD" tvg-logo="" group-title="OSN",OSN:OSN-YaHala-First-2-HD
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1292.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN-YAHALA-CINEMA" tvg-logo="" group-title="OSN",OSN:OSN-YAHALA-CINEMA
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1293.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN-YaHala--HD" tvg-logo="" group-title="OSN",OSN:OSN-YaHala--HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1290.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN-WWE" tvg-logo="" group-title="OSN",OSN:OSN-WWE
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1289.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN-VH-1" tvg-logo="" group-title="OSN",OSN:OSN-VH-1
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1288.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN-Trace-Urban" tvg-logo="" group-title="OSN",OSN:OSN-Trace-Urban
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1287.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN-TLC-HD" tvg-logo="" group-title="OSN",OSN:OSN-TLC-HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1286.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN-Ten-Cricket" tvg-logo="" group-title="OSN",OSN:OSN-Ten-Cricket
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1270.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN-Syfy" tvg-logo="" group-title="OSN",OSN:OSN-Syfy
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1285.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN-SUNDANCE-TV" tvg-logo="" group-title="OSN",OSN:OSN-SUNDANCE-TV
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1271.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN-Star-World-HD" tvg-logo="" group-title="OSN",OSN:OSN-Star-World-HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1265.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN-Star-Movies-HD" tvg-logo="" group-title="OSN",OSN:OSN-Star-Movies-HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1264.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN-Series-HD" tvg-logo="" group-title="OSN",OSN:OSN-Series-HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1261.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN-Series-Comedy-HD" tvg-logo="" group-title="OSN",OSN:OSN-Series-Comedy-HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1262.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN-Series-Comedy-2-HD" tvg-logo="" group-title="OSN",OSN:OSN-Series-Comedy-2-HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1263.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN-SeeVii-Drama-HD" tvg-logo="" group-title="OSN",OSN:OSN-SeeVii-Drama-HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1284.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN-SeeVii-Beelink-HD" tvg-logo="" group-title="OSN",OSN:OSN-SeeVii-Beelink-HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1283.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN-Planet-Earth-HD" tvg-logo="" group-title="OSN",OSN:OSN-Planet-Earth-HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1282.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN-News" tvg-logo="" group-title="OSN",OSN:OSN-News
+  
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1276.ts
 #EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN-National-Geographic" tvg-logo="" group-title="OSN",OSN:OSN-National-Geographic
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1273.ts
@@ -2347,17 +1792,13 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1275.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1274.ts
 #EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN-MTV-LIVE-HD" tvg-logo="" group-title="OSN",OSN:OSN-MTV-LIVE-HD
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1272.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN-Movies-Thriller-HD" tvg-logo="" group-title="OSN",OSN:OSN-Movies-Thriller-HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1258.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN-Movies-Thriller-2" tvg-logo="" group-title="OSN",OSN:OSN-Movies-Thriller-2
+ 
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1259.ts
 #EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN-Movies-Kids-HD" tvg-logo="" group-title="OSN",OSN:OSN-Movies-Kids-HD
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1257.ts
 #EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN-Movies-HD" tvg-logo="" group-title="OSN",OSN:OSN-Movies-HD
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1249.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN-Movies-First-HD" tvg-logo="" group-title="OSN",OSN:OSN-Movies-First-HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1256.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN-Movies-Festival-HD" tvg-logo="" group-title="OSN",OSN:OSN-Movies-Festival-HD
+ 
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1255.ts
 #EXTINF:-1 tvg-ID="" tvg-name="OSN:OSN-Movies-Family" tvg-logo="" group-title="OSN",OSN:OSN-Movies-Family
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1254.ts
@@ -2495,23 +1936,7 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/711.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1025.ts
 #EXTINF:-1 tvg-ID="" tvg-name="UK:_ZEE_CINEMA" tvg-logo="" group-title="UK",UK:_ZEE_CINEMA
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1020.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_Yesterday" tvg-logo="" group-title="UK",UK:_Yesterday
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/908.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_Watch" tvg-logo="" group-title="UK",UK:_Watch
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1024.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_VIVA" tvg-logo="" group-title="UK",UK:_VIVA
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/903.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_Vintage_TV" tvg-logo="" group-title="UK",UK:_Vintage_TV
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1064.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_Viceland" tvg-logo="" group-title="UK",UK:_Viceland
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1063.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_VH1_Classic" tvg-logo="" group-title="UK",UK:_VH1_Classic
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/933.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_VH1" tvg-logo="" group-title="UK",UK:_VH1
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/932.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_UTV" tvg-logo="" group-title="UK",UK:_UTV
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1062.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_Universal_Channel" tvg-logo="" group-title="UK",UK:_Universal_Channel
+ 
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/930.ts
 #EXTINF:-1 tvg-ID="" tvg-name="UK:_TV5_Monde" tvg-logo="" group-title="UK",UK:_TV5_Monde
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1061.ts
@@ -2522,22 +1947,7 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1008.ts
 #EXTINF:-1 tvg-ID="" tvg-name="UK:_True_Movies" tvg-logo="" group-title="UK",UK:_True_Movies
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/931.ts
 #EXTINF:-1 tvg-ID="" tvg-name="UK:_Travel_Channel" tvg-logo="" group-title="UK",UK:_Travel_Channel
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1060.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_TLC" tvg-logo="" group-title="UK",UK:_TLC
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/937.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_Tiny_Pop" tvg-logo="" group-title="UK",UK:_Tiny_Pop
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1059.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_The_Vault" tvg-logo="" group-title="UK",UK:_The_Vault
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/936.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_TG4" tvg-logo="" group-title="UK",UK:_TG4
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/938.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_TCM" tvg-logo="" group-title="UK",UK:_TCM
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/909.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_SyFy" tvg-logo="" group-title="UK",UK:_SyFy
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/939.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_Starz_TV" tvg-logo="" group-title="UK",UK:_Starz_TV
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1058.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_Spike" tvg-logo="" group-title="UK",UK:_Spike
+ 
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/935.ts
 #EXTINF:-1 tvg-ID="" tvg-name="UK:_Sony_TV" tvg-logo="" group-title="UK",UK:_Sony_TV
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/942.ts
@@ -2623,14 +2033,7 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/974.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/975.ts
 #EXTINF:-1 tvg-ID="" tvg-name="UK:_Premier_Sports" tvg-logo="" group-title="UK",UK:_Premier_Sports
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/973.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_Pop_Max" tvg-logo="" group-title="UK",UK:_Pop_Max
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1043.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_POP" tvg-logo="" group-title="UK",UK:_POP
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1051.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_Pick_TV" tvg-logo="" group-title="UK",UK:_Pick_TV
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/972.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_PBS_America" tvg-logo="" group-title="UK",UK:_PBS_America
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/923.ts
+ 
 #EXTINF:-1 tvg-ID="" tvg-name="UK:_Nollywood_Movies" tvg-logo="" group-title="UK",UK:_Nollywood_Movies
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/984.ts
 #EXTINF:-1 tvg-ID="" tvg-name="UK:_Nick_Jr_Too" tvg-logo="" group-title="UK",UK:_Nick_Jr_Too
@@ -2655,12 +2058,7 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1049.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1048.ts
 #EXTINF:-1 tvg-ID="" tvg-name="UK:_MTV_Hits" tvg-logo="" group-title="UK",UK:_MTV_Hits
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/988.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_MTV_DANCE" tvg-logo="" group-title="UK",UK:_MTV_DANCE
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1047.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_MTV_CLASSIC" tvg-logo="" group-title="UK",UK:_MTV_CLASSIC
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1046.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_MTV_BASE" tvg-logo="" group-title="UK",UK:_MTV_BASE
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1045.ts
+ 
 #EXTINF:-1 tvg-ID="" tvg-name="UK:_MTV" tvg-logo="" group-title="UK",UK:_MTV
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/987.ts
 #EXTINF:-1 tvg-ID="" tvg-name="UK:_Movies_24" tvg-logo="" group-title="UK",UK:_Movies_24
@@ -2677,19 +2075,7 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1044.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/915.ts
 #EXTINF:-1 tvg-ID="" tvg-name="UK:_Liverpool_TV" tvg-logo="" group-title="UK",UK:_Liverpool_TV
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/989.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_Lifetime" tvg-logo="" group-title="UK",UK:_Lifetime
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1072.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_ITV_Encore" tvg-logo="" group-title="UK",UK:_ITV_Encore
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/998.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_ITV_BE" tvg-logo="" group-title="UK",UK:_ITV_BE
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/997.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_ITV_4" tvg-logo="" group-title="UK",UK:_ITV_4
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/996.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_ITV_3" tvg-logo="" group-title="UK",UK:_ITV_3
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/995.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_ITV_2" tvg-logo="" group-title="UK",UK:_ITV_2
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/994.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_ITV_1" tvg-logo="" group-title="UK",UK:_ITV_1
+ 
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/993.ts
 #EXTINF:-1 tvg-ID="" tvg-name="UK:_Irish_TV" tvg-logo="" group-title="UK",UK:_Irish_TV
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/990.ts
@@ -2765,25 +2151,7 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1037.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/921.ts
 #EXTINF:-1 tvg-ID="" tvg-name="UK:_CHELSEA_TV" tvg-logo="" group-title="UK",UK:_CHELSEA_TV
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/985.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_Chart_Show_TV" tvg-logo="" group-title="UK",UK:_Chart_Show_TV
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1036.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_Channel_AKA" tvg-logo="" group-title="UK",UK:_Channel_AKA
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1035.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_Channel_5" tvg-logo="" group-title="UK",UK:_Channel_5
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/971.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_Channel_4" tvg-logo="" group-title="UK",UK:_Channel_4
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1011.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_Challenge" tvg-logo="" group-title="UK",UK:_Challenge
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/905.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_Celtic_TV (Live_During_SPL)" tvg-logo="" group-title="UK",UK:_Celtic_TV (Live_During_SPL)
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1073.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_CBS_Reality" tvg-logo="" group-title="UK",UK:_CBS_Reality
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/922.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_CBS_Action" tvg-logo="" group-title="UK",UK:_CBS_Action
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1010.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_Cbeebies_HD" tvg-logo="" group-title="UK",UK:_Cbeebies_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1065.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_CBBC" tvg-logo="" group-title="UK",UK:_CBBC
+ 
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1034.ts
 #EXTINF:-1 tvg-ID="" tvg-name="UK:_Cartoon_Network_HD" tvg-logo="" group-title="UK",UK:_Cartoon_Network_HD
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/928.ts
@@ -2813,47 +2181,8 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1028.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1027.ts
 #EXTINF:-1 tvg-ID="" tvg-name="UK:_Boxnation" tvg-logo="" group-title="UK",UK:_Boxnation
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1009.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_Boomerang" tvg-logo="" group-title="UK",UK:_Boomerang
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1033.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_Bloomberg" tvg-logo="" group-title="UK",UK:_Bloomberg
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1069.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_BET" tvg-logo="" group-title="UK",UK:_BET
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1021.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_BBC_Entertainment" tvg-logo="" group-title="UK",UK:_BBC_Entertainment
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1068.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_BBC_4" tvg-logo="" group-title="UK",UK:_BBC_4
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/901.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_BBC_2" tvg-logo="" group-title="UK",UK:_BBC_2
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/902.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_BBC_1_HD" tvg-logo="" group-title="UK",UK:_BBC_1_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1066.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_BBC_1" tvg-logo="" group-title="UK",UK:_BBC_1
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/899.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_Baby_TV" tvg-logo="" group-title="UK",UK:_Baby_TV
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1013.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_At_The_Races" tvg-logo="" group-title="UK",UK:_At_The_Races
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/904.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_ALIBI" tvg-logo="" group-title="UK",UK:_ALIBI
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/898.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_5USA" tvg-logo="" group-title="UK",UK:_5USA
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/900.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_5Star" tvg-logo="" group-title="UK",UK:_5Star
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/897.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_4_Seven" tvg-logo="" group-title="UK",UK:_4_Seven
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/896.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK:_3E" tvg-logo="" group-title="UK",UK:_3E
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1032.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:ZDF_NEO_HD" tvg-logo="" group-title="German",DE:ZDF_NEO_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/291.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:ZDF_INFO_HD" tvg-logo="" group-title="German",DE:ZDF_INFO_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/290.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:ZDF_HD" tvg-logo="" group-title="German",DE:ZDF_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/289.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:WELT_HD" tvg-logo="" group-title="German",DE:WELT_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/303.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:WDR_HD" tvg-logo="" group-title="German",DE:WDR_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/292.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:VOX_HD" tvg-logo="" group-title="German",DE:VOX_HD
+ 
+  
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/293.ts
 #EXTINF:-1 tvg-ID="" tvg-name="DE:UNIVERSAL_CHANNEL_HD" tvg-logo="" group-title="German",DE:UNIVERSAL_CHANNEL_HD
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/320.ts
@@ -2873,25 +2202,7 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/319.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/326.ts
 #EXTINF:-1 tvg-ID="" tvg-name="DE:SKY_SPORT_NEWS_HD" tvg-logo="" group-title="German",DE:SKY_SPORT_NEWS_HD
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/349.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:SKY_SELECT_8_HD" tvg-logo="" group-title="German",DE:SKY_SELECT_8_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/347.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:SKY_SELECT_7_HD" tvg-logo="" group-title="German",DE:SKY_SELECT_7_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/346.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:SKY_SELECT_6_HD" tvg-logo="" group-title="German",DE:SKY_SELECT_6_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/345.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:SKY_SELECT_5_HD" tvg-logo="" group-title="German",DE:SKY_SELECT_5_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/344.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:SKY_SELECT_4_HD" tvg-logo="" group-title="German",DE:SKY_SELECT_4_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/343.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:SKY_SELECT_3_HD" tvg-logo="" group-title="German",DE:SKY_SELECT_3_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/342.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:SKY_SELECT_2_HD" tvg-logo="" group-title="German",DE:SKY_SELECT_2_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/341.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:SKY_SELECT_1_HD" tvg-logo="" group-title="German",DE:SKY_SELECT_1_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/340.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:SKY_KRIMI" tvg-logo="" group-title="German",DE:SKY_KRIMI
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/339.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:SKY_CINEMA_NOSTALGIE" tvg-logo="" group-title="German",DE:SKY_CINEMA_NOSTALGIE
+ 
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/338.ts
 #EXTINF:-1 tvg-ID="" tvg-name="DE:SKY_CINEMA_HITS_HD_DE" tvg-logo="" group-title="German",DE:SKY_CINEMA_HITS_HD_DE
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/335.ts
@@ -2911,58 +2222,8 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/333.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/331.ts
 #EXTINF:-1 tvg-ID="" tvg-name="DE:SKY_CINEMA_+1_HD" tvg-logo="" group-title="German",DE:SKY_CINEMA_+1_HD
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/330.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:SKY_ARTS_HD" tvg-logo="" group-title="German",DE:SKY_ARTS_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/328.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:ZEE_ON" tvg-logo="" group-title="German",DE:ZEE_ON
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/307.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:SKY_1_HD" tvg-logo="" group-title="German",DE:SKY_1_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/327.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:SIXX_HD" tvg-logo="" group-title="German",DE:SIXX_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/311.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:SERVUS_HD" tvg-logo="" group-title="German",DE:SERVUS_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/286.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:SAT_1_HD" tvg-logo="" group-title="German",DE:SAT_1_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/283.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:SAT.1_GOLD_HD" tvg-logo="" group-title="German",DE:SAT.1_GOLD_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/285.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:SAT.1_EMOTIONS" tvg-logo="" group-title="German",DE:SAT.1_EMOTIONS
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/284.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:RTL_SD" tvg-logo="" group-title="German",DE:RTL_SD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/270.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:RTL_PLUS_DE" tvg-logo="" group-title="German",DE:RTL_PLUS_DE
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/276.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:RTL_PASSION" tvg-logo="" group-title="German",DE:RTL_PASSION
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/272.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:RTL_NITRO_HD" tvg-logo="" group-title="German",DE:RTL_NITRO_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/273.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:RTL_LIVING" tvg-logo="" group-title="German",DE:RTL_LIVING
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/274.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:RTL_II_HD" tvg-logo="" group-title="German",DE:RTL_II_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/271.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:RTL_HD" tvg-logo="" group-title="German",DE:RTL_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/269.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:RTL_FHD" tvg-logo="" group-title="German",DE:RTL_FHD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/268.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:RTL_CRIME_HD" tvg-logo="" group-title="German",DE:RTL_CRIME_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/275.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:ROMANCE_TV_HD" tvg-logo="" group-title="German",DE:ROMANCE_TV_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/309.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:PROSIEBEN_SCHWEIZ_HD" tvg-logo="" group-title="German",DE:PROSIEBEN_SCHWEIZ_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/278.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:PROSIEBEN_MAXX" tvg-logo="" group-title="German",DE:PROSIEBEN_MAXX
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/280.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:PROSIEBEN_HD" tvg-logo="" group-title="German",DE:PROSIEBEN_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/277.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:PROSIEBEN_FUN_HD" tvg-logo="" group-title="German",DE:PROSIEBEN_FUN_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/279.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:PLANET_HD" tvg-logo="" group-title="German",DE:PLANET_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/313.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:PHOENIX_HD" tvg-logo="" group-title="German",DE:PHOENIX_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/301.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:ORF_2_HD" tvg-logo="" group-title="German",DE:ORF_2_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/300.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:ORF_1_HD" tvg-logo="" group-title="German",DE:ORF_1_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/299.ts
+ 
+ 
 #EXTINF:-1 tvg-ID="" tvg-name="DE:NTV_HD" tvg-logo="" group-title="German",DE:NTV_HD
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/302.ts
 #EXTINF:-1 tvg-ID="" tvg-name="DE:NICKELODEON_HD" tvg-logo="" group-title="German",DE:NICKELODEON_HD
@@ -2971,11 +2232,7 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/287.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/317.ts
 #EXTINF:-1 tvg-ID="" tvg-name="DE:NATIONAL_GEOGRAPHIC_HD_DE" tvg-logo="" group-title="German",DE:NATIONAL_GEOGRAPHIC_HD_DE
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/316.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:KABEL_EINS_HD" tvg-logo="" group-title="German",DE:KABEL_EINS_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/296.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:KABEL_EINS_DOKU" tvg-logo="" group-title="German",DE:KABEL_EINS_DOKU
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/298.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DE:KABEL_EINS_CLASSIC_HD" tvg-logo="" group-title="German",DE:KABEL_EINS_CLASSIC_HD
+ 
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/297.ts
 #EXTINF:-1 tvg-ID="" tvg-name="DE:HISTORY_CHANNEL_DE" tvg-logo="" group-title="German",DE:HISTORY_CHANNEL_DE
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/318.ts
@@ -3011,69 +2268,18 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/314.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/294.ts
 #EXTINF:-1 tvg-ID="" tvg-name="DE:13th_STREET_HD_DE" tvg-logo="" group-title="German",DE:13th_STREET_HD_DE
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/325.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:Yaban" tvg-logo="" group-title="turky",TR:Yaban
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/72.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:ULKE" tvg-logo="" group-title="turky",TR:ULKE
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/71.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:TV_8.5_Spor" tvg-logo="" group-title="turky",TR:TV_8.5_Spor
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/70.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:TV_8" tvg-logo="" group-title="turky",TR:TV_8
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/69.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:TV2" tvg-logo="" group-title="turky",TR:TV2
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/67.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:TRT_Turk" tvg-logo="" group-title="turky",TR:TRT_Turk
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/66.ts
+ 
 #EXTINF:-1 tvg-ID="" tvg-name="TR:TRT_SPOR" tvg-logo="" group-title="turky",TR:TRT_SPOR
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/65.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:TRT_OKUL" tvg-logo="" group-title="turky",TR:TRT_OKUL
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/64.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:TRT_MUZIK" tvg-logo="" group-title="turky",TR:TRT_MUZIK
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/63.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:TRT_HD" tvg-logo="" group-title="turky",TR:TRT_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/62.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:TRT_HABER_HD" tvg-logo="" group-title="turky",TR:TRT_HABER_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/61.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:TRT_DIYANET" tvg-logo="" group-title="turky",TR:TRT_DIYANET
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/60.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:TRT_COCUK" tvg-logo="" group-title="turky",TR:TRT_COCUK
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/59.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:TRT_BELGESEL" tvg-logo="" group-title="turky",TR:TRT_BELGESEL
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/58.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:TRT_AVAZ" tvg-logo="" group-title="turky",TR:TRT_AVAZ
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/57.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:TRT_Arabic" tvg-logo="" group-title="turky",TR:TRT_Arabic
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/56.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:TRT_1" tvg-logo="" group-title="turky",TR:TRT_1
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/55.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:TIVIBU_SPORT_2" tvg-logo="" group-title="turky",TR:TIVIBU_SPORT_2
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/54.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:TIVIBU_SPORT_1" tvg-logo="" group-title="turky",TR:TIVIBU_SPORT_1
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/53.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:TGRT_Haber" tvg-logo="" group-title="turky",TR:TGRT_Haber
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/52.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:TGRT_BELGESEL" tvg-logo="" group-title="turky",TR:TGRT_BELGESEL
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/51.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:Star_TV" tvg-logo="" group-title="turky",TR:Star_TV
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/50.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:SKYTURK_360" tvg-logo="" group-title="turky",TR:SKYTURK_360
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/49.ts
+ 
+ 
 #EXTINF:-1 tvg-ID="" tvg-name="TR:SINEMA_TV_2" tvg-logo="" group-title="turky",TR:SINEMA_TV_2
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/48.ts
 #EXTINF:-1 tvg-ID="" tvg-name="TR:SINEMA_2" tvg-logo="" group-title="turky",TR:SINEMA_2
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/47.ts
 #EXTINF:-1 tvg-ID="" tvg-name="TR:SINEMA_1" tvg-logo="" group-title="turky",TR:SINEMA_1
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/46.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:Show_TV" tvg-logo="" group-title="turky",TR:Show_TV
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/45.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:POWER_TURK" tvg-logo="" group-title="turky",TR:POWER_TURK
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/44.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:NUMBER_ONE_TURK" tvg-logo="" group-title="turky",TR:NUMBER_ONE_TURK
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/43.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:NTV_SPOR" tvg-logo="" group-title="turky",TR:NTV_SPOR
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/42.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:NTV" tvg-logo="" group-title="turky",TR:NTV
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/41.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:NR_1" tvg-logo="" group-title="turky",TR:NR_1
+ 
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/40.ts
 #EXTINF:-1 tvg-ID="" tvg-name="TR:NATIONAL_GEO_WILD" tvg-logo="" group-title="turky",TR:NATIONAL_GEO_WILD
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/92.ts
@@ -3081,35 +2287,8 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/92.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/90.ts
 #EXTINF:-1 tvg-ID="" tvg-name="TR:NATIONAL_GEOGRAPHIC" tvg-logo="" group-title="turky",TR:NATIONAL_GEOGRAPHIC
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/91.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:MAGICBOX_1" tvg-logo="" group-title="turky",TR:MAGICBOX_1
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/87.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:Loca_3" tvg-logo="" group-title="turky",TR:Loca_3
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/39.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:Loca_2" tvg-logo="" group-title="turky",TR:Loca_2
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/38.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:Loca_1" tvg-logo="" group-title="turky",TR:Loca_1
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/37.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:KRAL" tvg-logo="" group-title="turky",TR:KRAL
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/36.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:Kanal_Urfa" tvg-logo="" group-title="turky",TR:Kanal_Urfa
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/35.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:Kanal_D" tvg-logo="" group-title="turky",TR:Kanal_D
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/34.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:KANAL_7" tvg-logo="" group-title="turky",TR:KANAL_7
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/33.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:HISTORY_HD" tvg-logo="" group-title="turky",TR:HISTORY_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/95.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:HALK_TV" tvg-logo="" group-title="turky",TR:HALK_TV
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/32.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:HaberTurk" tvg-logo="" group-title="turky",TR:HaberTurk
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/31.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:Fox_TV" tvg-logo="" group-title="turky",TR:Fox_TV
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/75.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:FOX_HD" tvg-logo="" group-title="turky",TR:FOX_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/30.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:FLASH_TV" tvg-logo="" group-title="turky",TR:FLASH_TV
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/29.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TR:FB_TV" tvg-logo="" group-title="turky",TR:FB_TV
+ 
+
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/28.ts
 #EXTINF:-1 tvg-ID="" tvg-name="TR:EURO_STAR" tvg-logo="" group-title="turky",TR:EURO_STAR
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/26.ts
@@ -3207,13 +2386,8 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/515.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/517.ts
 #EXTINF:-1 tvg-ID="" tvg-name="SC:_Viasat_Film_Action" tvg-logo="" group-title="SWEDEN",SC:_Viasat_Film_Action
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/518.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SC:_Tv6_SW" tvg-logo="" group-title="SWEDEN",SC:_Tv6_SW
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/501.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SC:_Tv4_SW" tvg-logo="" group-title="SWEDEN",SC:_Tv4_SW
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/503.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SC:_tv4_guld" tvg-logo="" group-title="SWEDEN",SC:_tv4_guld
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/508.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SC:_TV4_Film_-Sweeden." tvg-logo="" group-title="SWEDEN",SC:_TV4_Film_-Sweeden.
+
+
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/502.ts
 #EXTINF:-1 tvg-ID="" tvg-name="SC:_Tv4_Facta_HD" tvg-logo="" group-title="SWEDEN",SC:_Tv4_Facta_HD
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/504.ts
@@ -3263,66 +2437,7 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/530.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/527.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BE:_CH:Teleclub_Cinema" tvg-logo="" group-title="BELGIUM",BE:_CH:Teleclub_Cinema
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/526.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:_BE_VTM_KAZOOM" tvg-logo="" group-title="BELGIUM",BE:_BE_VTM_KAZOOM
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/550.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:_BE_VTM" tvg-logo="" group-title="BELGIUM",BE:_BE_VTM
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/543.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:_BE_VOO_SPORT" tvg-logo="" group-title="BELGIUM",BE:_BE_VOO_SPORT
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/553.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:_BE_VITAYA" tvg-logo="" group-title="BELGIUM",BE:_BE_VITAYA
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/537.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:_BE_VIJF" tvg-logo="" group-title="BELGIUM",BE:_BE_VIJF
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/538.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:_BE_VIER_HD" tvg-logo="" group-title="BELGIUM",BE:_BE_VIER_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/539.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:_BE_TVO" tvg-logo="" group-title="BELGIUM",BE:_BE_TVO
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/540.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:_BE_TVL" tvg-logo="" group-title="BELGIUM",BE:_BE_TVL
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/564.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:_BE_TELE_BASEL" tvg-logo="" group-title="BELGIUM",BE:_BE_TELE_BASEL
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/542.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:_BE_series" tvg-logo="" group-title="BELGIUM",BE:_BE_series
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/532.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:_BE_Rtl_Tvi" tvg-logo="" group-title="BELGIUM",BE:_BE_Rtl_Tvi
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/544.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:_BE_RTL_LU" tvg-logo="" group-title="BELGIUM",BE:_BE_RTL_LU
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/545.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:_BE_RTC" tvg-logo="" group-title="BELGIUM",BE:_BE_RTC
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/546.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:_BE_Plug_rtl" tvg-logo="" group-title="BELGIUM",BE:_BE_Plug_rtl
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/547.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:_BE_La_Une_HD" tvg-logo="" group-title="BELGIUM",BE:_BE_La_Une_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/548.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:_BE_La_Trois" tvg-logo="" group-title="BELGIUM",BE:_BE_La_Trois
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/549.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:_Be_La_Deux" tvg-logo="" group-title="BELGIUM",BE:_Be_La_Deux
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/533.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:_BE_KETNET" tvg-logo="" group-title="BELGIUM",BE:_BE_KETNET
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/551.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:_BE_jimjam" tvg-logo="" group-title="BELGIUM",BE:_BE_jimjam
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/535.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:_BE_club_rtl" tvg-logo="" group-title="BELGIUM",BE:_BE_club_rtl
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/552.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:_BE_CINEMA_ANIM" tvg-logo="" group-title="BELGIUM",BE:_BE_CINEMA_ANIM
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/554.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:_BE_canvas" tvg-logo="" group-title="BELGIUM",BE:_BE_canvas
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/541.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:_BE_BX1" tvg-logo="" group-title="BELGIUM",BE:_BE_BX1
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/556.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:_BE_BE_cinema2" tvg-logo="" group-title="BELGIUM",BE:_BE_BE_cinema2
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/557.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:_BE_BE_CINE" tvg-logo="" group-title="BELGIUM",BE:_BE_BE_CINE
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/558.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:_BE_BE192" tvg-logo="" group-title="BELGIUM",BE:_BE_BE192
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/559.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:_BE_AB3_HD" tvg-logo="" group-title="BELGIUM",BE:_BE_AB3_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/560.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:_BE_AB1_HD" tvg-logo="" group-title="BELGIUM",BE:_BE_AB1_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/561.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:_BE_2BE" tvg-logo="" group-title="BELGIUM",BE:_BE_2BE
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/562.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:_BE:_KETOP_12" tvg-logo="" group-title="BELGIUM",BE:_BE:_KETOP_12
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/555.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="NL:_ZIGGO_SPORT_VOETBAL" tvg-logo="" group-title="Netherland",NL:_ZIGGO_SPORT_VOETBAL
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/245.ts
 #EXTINF:-1 tvg-ID="" tvg-name="NL:_Ziggo_Sport_Racing" tvg-logo="" group-title="Netherland",NL:_Ziggo_Sport_Racing
@@ -3335,24 +2450,7 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/246.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/242.ts
 #EXTINF:-1 tvg-ID="" tvg-name="NL:_SBS_9" tvg-logo="" group-title="Netherland",NL:_SBS_9
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/248.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NL:_SBS_6_HD" tvg-logo="" group-title="Netherland",NL:_SBS_6_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/247.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NL:_RTL_7_HD" tvg-logo="" group-title="Netherland",NL:_RTL_7_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/251.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NL:_RTL_5_HD" tvg-logo="" group-title="Netherland",NL:_RTL_5_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/250.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NL:_RTL8_HD" tvg-logo="" group-title="Netherland",NL:_RTL8_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/252.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NL:_RTL4_HD" tvg-logo="" group-title="Netherland",NL:_RTL4_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/249.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NL:_NPO_3_HD" tvg-logo="" group-title="Netherland",NL:_NPO_3_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/255.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NL:_NPO_2_HD" tvg-logo="" group-title="Netherland",NL:_NPO_2_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/254.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NL:_NPO_1_HD" tvg-logo="" group-title="Netherland",NL:_NPO_1_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/253.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NL:_NET_5_HD" tvg-logo="" group-title="Netherland",NL:_NET_5_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/257.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="NL:_Fox_tv" tvg-logo="" group-title="Netherland",NL:_Fox_tv
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/243.ts
 #EXTINF:-1 tvg-ID="" tvg-name="NL:_Fox_Sports_5" tvg-logo="" group-title="Netherland",NL:_Fox_Sports_5
@@ -3375,18 +2473,14 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/265.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/244.ts
 #EXTINF:-1 tvg-ID="" tvg-name="NL:_Baby_Tv" tvg-logo="" group-title="Netherland",NL:_Baby_Tv
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/256.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT:Tv_2000" tvg-logo="" group-title="Italy",IT:Tv_2000
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/200.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT:talia_1_HD" tvg-logo="" group-title="Italy",IT:talia_1_HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/114.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="IT:SuperTennis_HD" tvg-logo="" group-title="Italy",IT:SuperTennis_HD
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/198.ts
 #EXTINF:-1 tvg-ID="" tvg-name="IT:Sport_Italia" tvg-logo="" group-title="Italy",IT:Sport_Italia
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/197.ts
 #EXTINF:-1 tvg-ID="" tvg-name="IT:Sky_Uno_HD" tvg-logo="" group-title="Italy",IT:Sky_Uno_HD
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/196.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT:Sky_TG24" tvg-logo="" group-title="Italy",IT:Sky_TG24
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/195.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="IT:Sky_Supercalcio_HD" tvg-logo="" group-title="Italy",IT:Sky_Supercalcio_HD
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/194.ts
 #EXTINF:-1 tvg-ID="" tvg-name="IT:Sky_Sport_Moto_GP_HD" tvg-logo="" group-title="Italy",IT:Sky_Sport_Moto_GP_HD
@@ -3435,16 +2529,7 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/173.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/172.ts
 #EXTINF:-1 tvg-ID="" tvg-name="IT:Sky_Atlantic_HD" tvg-logo="" group-title="Italy",IT:Sky_Atlantic_HD
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/171.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT:Sky_3D" tvg-logo="" group-title="Italy",IT:Sky_3D
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/170.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT:ROMA_CHANNEL" tvg-logo="" group-title="Italy",IT:ROMA_CHANNEL
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/169.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT:Rete_4" tvg-logo="" group-title="Italy",IT:Rete_4
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/168.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT:Real_Time" tvg-logo="" group-title="Italy",IT:Real_Time
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/167.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT:Rai_yoyo" tvg-logo="" group-title="Italy",IT:Rai_yoyo
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/166.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="IT:Rai_Sport_2" tvg-logo="" group-title="Italy",IT:Rai_Sport_2
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/165.ts
 #EXTINF:-1 tvg-ID="" tvg-name="IT:Rai_Sport_1" tvg-logo="" group-title="Italy",IT:Rai_Sport_1
@@ -3463,32 +2548,7 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/159.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/158.ts
 #EXTINF:-1 tvg-ID="" tvg-name="IT:Rai_1HD" tvg-logo="" group-title="Italy",IT:Rai_1HD
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/157.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT:Primafilla_WWE" tvg-logo="" group-title="Italy",IT:Primafilla_WWE
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/156.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT:Primafilla_9" tvg-logo="" group-title="Italy",IT:Primafilla_9
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/154.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT:Primafilla_8" tvg-logo="" group-title="Italy",IT:Primafilla_8
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/153.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT:Primafilla_7" tvg-logo="" group-title="Italy",IT:Primafilla_7
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/152.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT:Primafilla_6" tvg-logo="" group-title="Italy",IT:Primafilla_6
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/151.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT:Primafilla_5" tvg-logo="" group-title="Italy",IT:Primafilla_5
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/150.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT:Primafilla_4" tvg-logo="" group-title="Italy",IT:Primafilla_4
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/149.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT:Primafilla_3" tvg-logo="" group-title="Italy",IT:Primafilla_3
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/148.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT:Primafilla_2" tvg-logo="" group-title="Italy",IT:Primafilla_2
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/147.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT:Primafilla_10" tvg-logo="" group-title="Italy",IT:Primafilla_10
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/155.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT:Primafilla_1" tvg-logo="" group-title="Italy",IT:Primafilla_1
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/146.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT:Premium_Studio_Universal" tvg-logo="" group-title="Italy",IT:Premium_Studio_Universal
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/145.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IT:Premium_Stories" tvg-logo="" group-title="Italy",IT:Premium_Stories
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/144.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="IT:Premium_Sport_HD" tvg-logo="" group-title="Italy",IT:Premium_Sport_HD
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/143.ts
 #EXTINF:-1 tvg-ID="" tvg-name="IT:Premium_Sport_2" tvg-logo="" group-title="Italy",IT:Premium_Sport_2
@@ -3657,36 +2717,7 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/205.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/204.ts
 #EXTINF:-1 tvg-ID="" tvg-name="USA:_ABC_NY_FHD" tvg-logo="" group-title="USA",USA:_ABC_NY_FHD
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/203.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:OCS MAX" tvg-logo="" group-title="FRANCE",FR:OCS MAX
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1762.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:OCS CHOC HD" tvg-logo="" group-title="FRANCE",FR:OCS CHOC HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1761.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:LOCAL W9" tvg-logo="" group-title="FRANCE",FR:LOCAL W9
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1810.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:LOCAL TMC" tvg-logo="" group-title="FRANCE",FR:LOCAL TMC
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1811.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:LOCAL TF1" tvg-logo="" group-title="FRANCE",FR:LOCAL TF1
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1812.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:LOCAL RTS Un" tvg-logo="" group-title="FRANCE",FR:LOCAL RTS Un
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1813.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:LOCAL RTS Deux" tvg-logo="" group-title="FRANCE",FR:LOCAL RTS Deux
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1814.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:LOCAL L'équipe 21" tvg-logo="" group-title="FRANCE",FR:LOCAL L'équipe 21
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1815.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:LOCAL Gulli" tvg-logo="" group-title="FRANCE",FR:LOCAL Gulli
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1816.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:LOCAL France Ô" tvg-logo="" group-title="FRANCE",FR:LOCAL France Ô
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1818.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:LOCAL France 5" tvg-logo="" group-title="FRANCE",FR:LOCAL France 5
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1819.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:LOCAL France 4" tvg-logo="" group-title="FRANCE",FR:LOCAL France 4
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1820.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:LOCAL France 3" tvg-logo="" group-title="FRANCE",FR:LOCAL France 3
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1821.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:LOCAL France 2" tvg-logo="" group-title="FRANCE",FR:LOCAL France 2
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1822.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:LOCAL Euronews Fr" tvg-logo="" group-title="FRANCE",FR:LOCAL Euronews Fr
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1823.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="FR:LOCAL Canal  Sport" tvg-logo="" group-title="FRANCE",FR:LOCAL Canal  Sport
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1824.ts
 #EXTINF:-1 tvg-ID="" tvg-name="FR:LOCAL Canal" tvg-logo="" group-title="FRANCE",FR:LOCAL Canal
@@ -3755,23 +2786,7 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1753.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1675.ts
 #EXTINF:-1 tvg-ID="" tvg-name="FR: Paris-Premiere" tvg-logo="" group-title="FRANCE",FR: Paris-Premiere
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1795.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: PARIS PREMIERE  HD" tvg-logo="" group-title="FRANCE",FR: PARIS PREMIERE  HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1764.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: PARAMOUNT CHANNEL HD" tvg-logo="" group-title="FRANCE",FR: PARAMOUNT CHANNEL HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1765.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Paramount Channel" tvg-logo="" group-title="FRANCE",FR: Paramount Channel
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1794.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Orange Cine Comedie HD" tvg-logo="" group-title="FRANCE",FR: Orange Cine Comedie HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1766.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Orange Cine Action HD" tvg-logo="" group-title="FRANCE",FR: Orange Cine Action HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1767.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: OCS Geants HD" tvg-logo="" group-title="FRANCE",FR: OCS Geants HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1776.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: OCS CITY" tvg-logo="" group-title="FRANCE",FR: OCS CITY
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1760.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Numero-23" tvg-logo="" group-title="FRANCE",FR: Numero-23
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1793.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: NUMERO 23" tvg-logo="" group-title="FRANCE",FR: NUMERO 23
+
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1800.ts
 #EXTINF:-1 tvg-ID="" tvg-name="FR: NT 1" tvg-logo="" group-title="FRANCE",FR: NT 1
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1673.ts
@@ -3897,9 +2912,7 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1782.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1716.ts
 #EXTINF:-1 tvg-ID="" tvg-name="FR: Canal  Cinema HD" tvg-logo="" group-title="FRANCE",FR: Canal  Cinema HD
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1791.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: C8" tvg-logo="" group-title="FRANCE",FR: C8
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1669.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BoomeRang" tvg-logo="" group-title="FRANCE",FR: BoomeRang
+
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1740.ts
 #EXTINF:-1 tvg-ID="" tvg-name="FR: BOING" tvg-logo="" group-title="FRANCE",FR: BOING
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1743.ts
@@ -3941,25 +2954,7 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1755.ts
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1792.ts
 #EXTINF:-1 tvg-ID="" tvg-name="FR: AB 1" tvg-logo="" group-title="FRANCE",FR: AB 1
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1674.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: A LA CARTE 9 HD" tvg-logo="" group-title="FRANCE",FR: A LA CARTE 9 HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1699.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: A LA CARTE 5 HD" tvg-logo="" group-title="FRANCE",FR: A LA CARTE 5 HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1701.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: A LA CARTE 4 HD" tvg-logo="" group-title="FRANCE",FR: A LA CARTE 4 HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1702.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: A LA CARTE 3 HD" tvg-logo="" group-title="FRANCE",FR: A LA CARTE 3 HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1703.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: A LA CARTE 2 HD" tvg-logo="" group-title="FRANCE",FR: A LA CARTE 2 HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1704.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: A LA CARTE 1 HD" tvg-logo="" group-title="FRANCE",FR: A LA CARTE 1 HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1705.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: 13-RUE-HD" tvg-logo="" group-title="FRANCE",FR: 13-RUE-HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1688.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:  Teva HD" tvg-logo="" group-title="FRANCE",FR:  Teva HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1682.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:  LAUNE" tvg-logo="" group-title="FRANCE",FR:  LAUNE
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1677.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:  I tele" tvg-logo="" group-title="FRANCE",FR:  I tele
+
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1827.ts
 #EXTINF:-1 tvg-ID="" tvg-name="FR : Bein Sport max 4" tvg-logo="" group-title="FRANCE",FR : Bein Sport max 4
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1724.ts
