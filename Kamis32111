@@ -1,29 +1,15 @@
-#EXTINF:-1,BRASIL-FOX SPORTS
-rtmp://31.204.153.72/live/fsb
-
-#EXTINF:-1, Fox Sports 1 HD NL
-http://bit.ly/1XxOerx
-
-#EXTINF:-1, Fox Sports 2 HD NL
-http://bit.ly/1RciKYh
-
-#EXTINF:-1, Fox Sports 3 NL
-http://bit.ly/1TdiYgg
-
-#EXTINF:-1,SPAIN-FOX SPORTS:
-rtmp://wdc.cxnlive.com/live/foxsd.stream
-#EXTINF:0,FOX SPORT USA
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/66.m3u8
-
-#EXTINF: -1, Fox Sports Latinoamerica
-http://iptvmx.ddns.net/tutvguia/tutvguiaiptv/345.ch
-#EXTINF: -1, Fox sports2 Latinoamerica
-http://iptvmx.ddns.net/tutvguia/tutvguiaiptv/346.ch
-#EXTINF: -1, Fox sports3 Latinoamerica
-http://iptvmx.ddns.net/tutvguia/tutvguiaiptv/347.ch
-
-#EXTINF:0,Fox Sports
-http://109.202.195.76:5010
+#EXTINF:-1,[ NL ]FOX Sports 1 FHD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/20182.ts
+#EXTINF:-1,[ NL ]FOX Sports 1 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/20181.ts
+#EXTINF:-1,[ NL ]FOX Sports 3 FHD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/20177.ts
+#EXTINF:-1,[ NL ]FOX Sports 4 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/20176.ts
+#EXTINF:-1,[ NL ]FOX Sports 5 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/20175.ts
+#EXTINF:-1,[ NL ]FOX Sports 6 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/20173.ts
 
 #EXTINF:-1,HBO Hits
 http://tvku.live:8888/live/ricki/rk01/591.ts
