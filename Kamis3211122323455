@@ -1,29 +1,9 @@
-#EXTINF:0,BR: FOX SPORT 1
-http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/24322.ts
-#EXTINF:0,RU: SPORT 1
-http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/24373.ts
-#EXTINF:0,RU: SPORT 2
-http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/24374.ts
-#EXTINF:0,RU: MATCH! IGRA HD
-http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/12742.ts
-#EXTINF:0,RU: SPORT 1 HD
-http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/18469.ts
-#EXTINF:0,RU: Match! FUTBOL 1
-http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/20429.ts
-#EXTINF:0,NL: FOX SPORT 1
-http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/8600.ts
-#EXTINF:0,NL: FOX SPORT 2
-http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/8601.ts
-#EXTINF:0,NL: FOX SPORT 3
-http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/8602.ts
-#EXTINF:0,NL: FOX SPORT 4
-http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/8603.ts
-#EXTINF:0,NL: FOX SPORT 5
-http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/8604.ts
-#EXTINF:0,NL: FOX SPORT 6 HD
-http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/8611.ts
-#EXTINF:0,NL: ZIGGO SPORT HD
-http://145.239.8.174:3500/live/fVI31fp3Jq/UcYomx37H1/21185.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 Malaysia" tvg-logo="" group-title="Sports",Fox Sports 1 Malaysia
+http://tvku.live:8888/1759427735/8260551120/911
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 Malaysia" tvg-logo="" group-title="Sports",Fox Sports 2 Malaysia
+http://tvku.live:8888/1759427735/8260551120/895
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 Malaysia" tvg-logo="" group-title="Sports",Fox Sports 3 Malaysia
+http://tvku.live:8888/1759427735/8260551120/913
 #EXTINF:-1,HBO Hits
 http://tvku.live:8888/live/ricki/rk01/591.ts
 
