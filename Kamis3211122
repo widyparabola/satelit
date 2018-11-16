@@ -1,15 +1,38 @@
-#EXTINF:-1,[ NL ]FOX Sports 1 FHD
-http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/20182.ts
-#EXTINF:-1,[ NL ]FOX Sports 1 HD
-http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/20181.ts
-#EXTINF:-1,[ NL ]FOX Sports 3 FHD
-http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/20177.ts
-#EXTINF:-1,[ NL ]FOX Sports 4 HD
-http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/20176.ts
-#EXTINF:-1,[ NL ]FOX Sports 5 HD
-http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/20175.ts
-#EXTINF:-1,[ NL ]FOX Sports 6 HD
-http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/20173.ts
+#EXTINF:0,ES-FOX
+http://hostiptv.com:8089/live/ab2018/ab2018/11505.ts
+#EXTINF:0,ES-FOX HD
+http://hostiptv.com:8089/live/ab2018/ab2018/11506.ts
+#EXTINF:0,ES-FOX LIFE
+http://hostiptv.com:8089/live/ab2018/ab2018/11504.ts
+#EXTINF:0,ES-FOX SPORT 1 LATINO
+http://hostiptv.com:8089/live/ab2018/ab2018/11435.ts
+#EXTINF:0,ES-FOX SPORT 2 LATINO
+http://hostiptv.com:8089/live/ab2018/ab2018/11434.ts
+#EXTINF:0,ES-FOX SPORT 3 LATINO
+http://hostiptv.com:8089/live/ab2018/ab2018/11433.ts
+#EXTINF:0 group-title="MX: Mexico",MX: FOX SPORTS HD
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/9250.ts
+#EXTINF:0 group-title="MX: Mexico",MX: FOX SPORTS 2 HD
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/9249.ts
+#EXTINF:0 group-title="MX: Mexico",MX: FOX SPORTS 3 HD
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/9248.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 2 INTERNATIONAAL HD
+http://link.softclientarea.com:9100/live/gaston/gaston/33835.ts
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 2 INTERNATIONAAL 
+http://link.softclientarea.com:9100/live/gaston/gaston/33834.ts
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 3 EREDIVISIE 
+http://link.softclientarea.com:9100/live/gaston/gaston/33833.ts
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS1 
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/150.ts
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS2 
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/146.ts
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS3 
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/147.ts
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS4 
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/148.ts
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS5 
+http://ketchup.ddns.net:8000/live/sedatq/qsedat/149.ts
 
 #EXTINF:-1,HBO Hits
 http://tvku.live:8888/live/ricki/rk01/591.ts
