@@ -487,6 +487,542 @@ http://tvku.live:8888/widysatelitgmailcom/pengadilan@732/224
 #EXTINF:-1 tvg-id="SonySIX.in" tvg-name="Sony Six HD" tvg-logo="http://tvimages.burrp.com/images/channels2/sports/Sony-Six.png" group-title="Sports",Sony Six HD
 http://tvku.live:8888/widysatelitgmailcom/pengadilan@732/225
 
+#EXTM3U
+#EXTINF:-1,indosiar
+http://id1.indostreamingtv.com/live/tv11/index.m3u8
+#EXTINF:-1,sctv
+http://id7.indostreamingtv.com/live/tv2/index.m3u8
+#EXTINF:-1,mnc tv
+http://id2.indostreamingtv.com/live/event/index.m3u8
+#EXTINF:-1,Trans tv
+http://id2.indostreamingtv.com/live/tv33/index.m3u8
+#EXTINF:-1,Trans 7
+http://id8.indostreamingtv.com/live/tv77/index.m3u8
+#EXTINF:-1,Rcti
+http://id8.indostreamingtv.com/live/tv6/index.m3u8
+#EXTINF:0,RCTI 2
+http://edge.okezone.com/live/rctioke.m3u8
+#EXTINF:-1,Antv
+http://id2.indostreamingtv.com/live/tv4/index.m3u8
+#EXTINF:-1,Metrotv
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1,fox sport 2
+http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
+#EXTINF:-1,SENTANA SPORT
+http://ott-cdn.ucom.am/s82/03.m3u8
+#EXTINF:-1,SENTANA SPORT
+http://ott-cdn.ucom.am/s81/03.m3u8
+#EXTINF:-1,Smash Sports
+http://144.76.182.50:25461/live/smash/smash/4.m3u8
+#EXTINF:-1,BTV NEWS
+http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
+#EXTINF:-1,MY TV
+http://115.178.24.80:1935/dvr/_definst_/c1.stream/playlist.m3u8
+#EXTINF:-1,CTN
+http://115.178.24.80:1935/dvr/_definst_/c8.stream/playlist.m3u8
+#EXTINF:-1,PPTV HD
+http://49.231.4.246:9981/stream/channelid/124747937
+#EXTINF:-1,PPTV HD
+http://119.59.125.74/stream/totnew.php?channel_id=623d009180394c528880c14e2254452a&.m3u8
+#EXTINF:-1,CCTV5 FHD
+http://120.198.235.68/112.50.243.7/PLTV/88888888/224/3221225939/1.m3u8
+#EXTINF:-1,IDMANTV
+https://str-1.mediabay.tv/Idman/playlist.m3u8
+#EXTINF:-1,UK FHD : SKY SPORTS ACTION FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84829.ts
+#EXTINF:-1,UK FHD : SKY SPORTS ARENA FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84828.ts
+#EXTINF:-1,UK FHD : SKY SPORTS CRICKET FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84827.ts
+#EXTINF:-1,UK FHD : SKY SPORTS F1 FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84826.ts
+#EXTINF:-1,UK FHD : Sky SPORTS FOOTBALL FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84825.ts
+#EXTINF:-1,UK FHD : SKY SPORTS GOLF FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84824.ts
+#EXTINF:-1,UK FHD : SKY SPORTS MAIN EVENT FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84823.ts
+#EXTINF:-1,UK FHD : SKY SPORTS MIX FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84834.ts
+#EXTINF:-1,UK FHD : SKY SPORTS PREMIER LEAGUE FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84822.ts
+#EXTINF:-1,UK FHD : SKY SPORTS NEWS FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84833.ts
+#EXTINF:-1,UK FHD : BT 1 FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84832.ts
+#EXTINF:-1,UK FHD : BT 2 FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84831.ts
+#EXTINF:-1,UK FHD : BT 3 FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84830.ts
+#EXTINF:-1,UK : ELEVEN SPORTS 2 FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84821.ts
+#EXTINF:-1,UK FHD : EUROSPORTS 1 FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84836.ts
+#EXTINF:-1,UK FHD : EUROSPORTS 2 FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84835.ts
+#EXTINF:-1,UK FHD : FREE SPORTS FHD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84819.ts
+#EXTINF:-1,Sky Sports Action HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10531.ts
+#EXTINF:-1,Sky Sports Arena HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10530.ts
+#EXTINF:-1,Sky Sports Cricket HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10529.ts
+#EXTINF:-1,Sky Sports F1 HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10528.ts
+#EXTINF:-1,Sky Sports Football HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10527.ts
+#EXTINF:-1,Sky Sports Golf HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10526.ts
+#EXTINF:-1,Sky Sports Main Event HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10525.ts
+#EXTINF:-1,Sky Sports Mix HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10524.ts
+#EXTINF:-1,Sky Sports News HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10523.ts
+#EXTINF:-1,Sky Sports PL HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10522.ts
+#EXTINF:-1,UK: Racing UK HD1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10599.ts
+#EXTINF:-1,uk: BT Sports 2 HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10606.ts
+#EXTINF:-1,Sky Sports Main Event
+http://vmdirect.co.uk:5001/live/sharon/sharon/106.ts
+#EXTINF:-1,Sky Sports Main Event HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/105.ts
+#EXTINF:-1,Sky Sports cricket
+http://vmdirect.co.uk:5001/live/sharon/sharon/104.ts
+#EXTINF:-1,Sky Sports cricket HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/103.ts
+#EXTINF:-1,Sky Sports Action
+http://vmdirect.co.uk:5001/live/sharon/sharon/102.ts
+#EXTINF:-1,Sky Sports Action HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/101.ts
+#EXTINF:-1,Sky Sports the open
+http://vmdirect.co.uk:5001/live/sharon/sharon/100.ts
+#EXTINF:-1,Sky Sports The open HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/99.ts
+#EXTINF:-1,Sky Sports Premier league
+http://vmdirect.co.uk:5001/live/sharon/sharon/98.ts
+#EXTINF:-1,Sky Sports Premier league HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/97.ts
+#EXTINF:-1,Sky Sports Mix
+http://vmdirect.co.uk:5001/live/sharon/sharon/96.ts
+#EXTINF:-1,Sky Sports Mix HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/95.ts
+#EXTINF:-1,Sky Sports News HQ
+http://vmdirect.co.uk:5001/live/sharon/sharon/94.ts
+#EXTINF:-1,Sky Sports F1
+http://vmdirect.co.uk:5001/live/sharon/sharon/93.ts
+#EXTINF:-1,Sky sports F1 HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/92.ts
+#EXTINF:-1,Sports Football HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/233.ts
+#EXTINF:-1,sports news HQ HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/236.ts
+#EXTINF:-1,Sky Sports Arena HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/232.ts
+#EXTINF:-1,sky sports football
+http://vmdirect.co.uk:5001/live/sharon/sharon/3322.ts
+#EXTINF:-1,sky sports arena
+http://vmdirect.co.uk:5001/live/sharon/sharon/3323.ts
+#EXTINF:-1,Box Nation
+http://vmdirect.co.uk:5001/live/sharon/sharon/72.ts
+#EXTINF:-1,BT Sport / ESPN
+http://vmdirect.co.uk:5001/live/sharon/sharon/81.ts
+#EXTINF:-1,BT Sport / ESPN HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/80.ts
+#EXTINF:-1,BT Sport 1 HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/86.ts
+#EXTINF:-1,BT Sport 2 HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/84.ts
+#EXTINF:-1,BT Sports 3 HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/82.ts
+#EXTINF:-1,BT Sports 1
+http://vmdirect.co.uk:5001/live/sharon/sharon/87.ts
+#EXTINF:-1,BT Sports 2
+http://vmdirect.co.uk:5001/live/sharon/sharon/85.ts
+#EXTINF:-1,BT Sports 3
+http://vmdirect.co.uk:5001/live/sharon/sharon/83.ts
+#EXTINF:-1,Bt Sports Europe
+http://vmdirect.co.uk:5001/live/sharon/sharon/40.ts
+#EXTINF:-1,Manchester United TV
+http://vmdirect.co.uk:5001/live/sharon/sharon/74.ts
+#EXTINF:-1,At The Races
+http://vmdirect.co.uk:5001/live/sharon/sharon/89.ts
+#EXTINF:-1,eir Sports 2
+http://vmdirect.co.uk:5001/live/sharon/sharon/76.ts
+#EXTINF:-1,Euro Sport 1
+http://vmdirect.co.uk:5001/live/sharon/sharon/91.ts
+#EXTINF:-1,Racing UK
+http://vmdirect.co.uk:5001/live/sharon/sharon/88.ts
+#EXTINF:-1,racing uk backup
+http://vmdirect.co.uk:5001/live/sharon/sharon/2911.ts
+#EXTINF:-1,Euro Sport 1 HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/6112.ts
+#EXTINF:-1,Euro Sport 2 Hd
+http://vmdirect.co.uk:5001/live/sharon/sharon/6113.ts
+#EXTINF:-1,Premier Sports
+http://vmdirect.co.uk:5001/live/sharon/sharon/71.ts
+#EXTINF:-1,eir sports 1 hd
+http://vmdirect.co.uk:5001/live/sharon/sharon/3320.ts
+#EXTINF:-1,at the races backup
+http://vmdirect.co.uk:5001/live/sharon/sharon/216.ts
+#EXTINF:-1,Chelsea TV
+http://vmdirect.co.uk:5001/live/sharon/sharon/73.ts
+#EXTINF:-1,LFC TV
+http://vmdirect.co.uk:5001/live/sharon/sharon/75.ts
+#EXTINF:-1,Sports : Rangers TV (only when match on)
+http://vmdirect.co.uk:5001/live/sharon/sharon/3766.ts
+#EXTINF:-1,UK: Celtic UK(only when match on)
+http://vmdirect.co.uk:5001/live/sharon/sharon/3698.ts
+#EXTINF:-1,UK:BoxNation FHD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/23882.ts
+#EXTINF:-1,UK: Eurosport 1 FHD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/17643.ts
+#EXTINF:-1,UK: Eurosport 2 FHD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/17644.ts
+#EXTINF:-1,UK : BT Sports ESPN 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/23885.ts
+#EXTINF:-1,UK: BT Sports 3 FHD 1080
+http://vmdirect.co.uk:5001/live/sharon/sharon/23884.ts
+#EXTINF:-1,UK: BT Sports1 FHD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/23883.ts
+#EXTINF:-1,BT Sport Extra 1
+http://vmdirect.co.uk:5001/live/sharon/sharon/79.ts
+#EXTINF:-1,BT Sport Extra 2
+http://vmdirect.co.uk:5001/live/sharon/sharon/78.ts
+#EXTINF:-1,BT Sport Extra 3
+http://vmdirect.co.uk:5001/live/sharon/sharon/36.ts
+#EXTINF:-1,BT Sport Extra 4
+http://vmdirect.co.uk:5001/live/sharon/sharon/35.ts
+#EXTINF:-1,BT Sport Extra 5
+http://vmdirect.co.uk:5001/live/sharon/sharon/34.ts
+#EXTINF:-1,BT Sport Extra 6
+http://vmdirect.co.uk:5001/live/sharon/sharon/33.ts
+#EXTINF:-1,Sky Sports Red Button 1
+http://vmdirect.co.uk:5001/live/sharon/sharon/84895.ts
+#EXTINF:-1,Sky Sports Red Button 2
+http://vmdirect.co.uk:5001/live/sharon/sharon/84896.ts
+#EXTINF:-1,Sky Sports Red Button 3
+http://vmdirect.co.uk:5001/live/sharon/sharon/84897.ts
+#EXTINF:-1,Sky Sports Red Button 4
+http://vmdirect.co.uk:5001/live/sharon/sharon/84898.ts
+#EXTINF:-1,Sky Sports Red Button 5
+http://vmdirect.co.uk:5001/live/sharon/sharon/84899.ts
+#EXTINF:-1,Sky Sports Red Button 6
+http://vmdirect.co.uk:5001/live/sharon/sharon/84900.ts
+#EXTINF:-1,Sky Sports Red Button 7
+http://vmdirect.co.uk:5001/live/sharon/sharon/84901.ts
+#EXTINF:-1,Sky Sports Red Button 8
+http://vmdirect.co.uk:5001/live/sharon/sharon/84902.ts
+#EXTINF:-1,Sky Sports Red Button 9
+http://vmdirect.co.uk:5001/live/sharon/sharon/84903.ts
+#EXTINF:-1,UK I PADDY POWER  {HORSE RACING FLAT}
+http://vmdirect.co.uk:5001/live/sharon/sharon/84894.ts
+#EXTINF:-1,UK I PADDY POWER  {HORSE RACING JUMPS}
+http://vmdirect.co.uk:5001/live/sharon/sharon/84893.ts
+#EXTINF:-1,UK I PADDY POWER  {HORSE RACING SPRINT}
+http://vmdirect.co.uk:5001/live/sharon/sharon/84892.ts
+#EXTINF:-1,UK I PADDY POWER {GREYHOUNDS RACING}
+http://vmdirect.co.uk:5001/live/sharon/sharon/84888.ts
+#EXTINF:-1,UK I PADDY POWER  {MOTOR SPORTS}
+http://vmdirect.co.uk:5001/live/sharon/sharon/84891.ts
+#EXTINF:-1,UK :History HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10593.ts
+#EXTINF:-1,UK :Nat Geo Wild HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10592.ts
+#EXTINF:-1,UK: Discovery HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10598.ts
+#EXTINF:-1,UK: National Geographic HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10591.ts
+#EXTINF:-1,Uk :TCM HD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/10584.ts
+#EXTINF:-1,UK: Animal Planet FHD 1080*
+http://vmdirect.co.uk:5001/live/sharon/sharon/23881.ts
+#EXTINF:-1,BEIN SPORT 11 HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/47.ts
+#EXTINF:-1,BEIN SPORT 12  HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/46.ts
+#EXTINF:-1,TSN 1
+http://vmdirect.co.uk:5001/live/sharon/sharon/52.ts
+#EXTINF:-1,TSN 2
+http://vmdirect.co.uk:5001/live/sharon/sharon/51.ts
+#EXTINF:-1,TSN 3
+http://vmdirect.co.uk:5001/live/sharon/sharon/50.ts
+#EXTINF:-1,TSN 4
+http://vmdirect.co.uk:5001/live/sharon/sharon/49.ts
+#EXTINF:-1,TSN 5
+http://vmdirect.co.uk:5001/live/sharon/sharon/48.ts
+#EXTINF:-1,nbc sport
+http://vmdirect.co.uk:5001/live/sharon/sharon/220.ts
+#EXTINF:-1,MIO eleven
+http://vmdirect.co.uk:5001/live/sharon/sharon/227.ts
+#EXTINF:-1,Sports NET 360 HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/224.ts
+#EXTINF:-1,ViaSat Golf
+http://vmdirect.co.uk:5001/live/sharon/sharon/228.ts
+#EXTINF:-1,TR: Lig tv 1
+http://vmdirect.co.uk:5001/live/sharon/sharon/1395.ts
+#EXTINF:-1,TR: Lig tv 2
+http://vmdirect.co.uk:5001/live/sharon/sharon/1396.ts
+#EXTINF:-1,TR: Lig tv 3
+http://vmdirect.co.uk:5001/live/sharon/sharon/1397.ts
+#EXTINF:-1,osn box office 1
+http://vmdirect.co.uk:5001/live/sharon/sharon/3316.ts
+#EXTINF:-1,osn box office 2
+http://vmdirect.co.uk:5001/live/sharon/sharon/3317.ts
+#EXTINF:-1,osn box office 3
+http://vmdirect.co.uk:5001/live/sharon/sharon/3318.ts
+#EXTINF:-1,Arena Sport 5
+http://vmdirect.co.uk:5001/live/sharon/sharon/3328.ts
+#EXTINF:-1,arena sports 1
+http://vmdirect.co.uk:5001/live/sharon/sharon/3324.ts
+#EXTINF:-1,Arena Sports 2
+http://vmdirect.co.uk:5001/live/sharon/sharon/3325.ts
+#EXTINF:-1,Arena Sports 3
+http://vmdirect.co.uk:5001/live/sharon/sharon/3326.ts
+#EXTINF:-1,Arena Sports 4
+http://vmdirect.co.uk:5001/live/sharon/sharon/3327.ts
+#EXTINF:-1,BRAVO USA
+http://vmdirect.co.uk:5001/live/sharon/sharon/3331.ts
+#EXTINF:-1,USA: Fox News US
+http://vmdirect.co.uk:5001/live/sharon/sharon/6805.ts
+#EXTINF:-1,AR : Bein Sports 1
+http://vmdirect.co.uk:5001/live/sharon/sharon/243.ts
+#EXTINF:-1,AR : Bein Sports 2
+http://vmdirect.co.uk:5001/live/sharon/sharon/244.ts
+#EXTINF:-1,AR : Bein Sports 3
+http://vmdirect.co.uk:5001/live/sharon/sharon/245.ts
+#EXTINF:-1,AR : Bein Sports 4
+http://vmdirect.co.uk:5001/live/sharon/sharon/246.ts
+#EXTINF:-1,AR : Bein Sports 5
+http://vmdirect.co.uk:5001/live/sharon/sharon/247.ts
+#EXTINF:-1,AR : Bein Sports 6
+http://vmdirect.co.uk:5001/live/sharon/sharon/248.ts
+#EXTINF:-1,AR : Bein Sports 7
+http://vmdirect.co.uk:5001/live/sharon/sharon/249.ts
+#EXTINF:-1,AR : Bein Sports 8
+http://vmdirect.co.uk:5001/live/sharon/sharon/250.ts
+#EXTINF:-1,AR : Bein Sports 9
+http://vmdirect.co.uk:5001/live/sharon/sharon/251.ts
+#EXTINF:-1,Ar: Jordan Sport
+http://vmdirect.co.uk:5001/live/sharon/sharon/32119.ts
+#EXTINF:-1,Sky sport 2 HD IT
+http://vmdirect.co.uk:5001/live/sharon/sharon/1308.ts
+#EXTINF:-1,Sky sport 3HD I
+http://vmdirect.co.uk:5001/live/sharon/sharon/1310.ts
+#EXTINF:-1,Premium Calcio 2
+http://vmdirect.co.uk:5001/live/sharon/sharon/1257.ts
+#EXTINF:-1,Sky Super Calcio HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/1258.ts
+#EXTINF:-1,IT: Fox Sport 1HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/6520.ts
+#EXTINF:-1,IT: Sky Calcio 2 HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/6555.ts
+#EXTINF:-1,IT: Sky Calcio 3 HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/6556.ts
+#EXTINF:-1,IT: Sky Calcio 5 HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/6558.ts
+#EXTINF:-1,IT: Sky Calcio 6 HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/6559.ts
+#EXTINF:-1,IT: Sky sport 1 HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/6540.ts
+#EXTINF:-1,IT: Sky sport 2 HD IT
+http://vmdirect.co.uk:5001/live/sharon/sharon/6541.ts
+#EXTINF:-1,IT: Sky Sport 24HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/6542.ts
+#EXTINF:-1,IT: Sky Sport F1 HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/6544.ts
+#EXTINF:-1,IT: Sky Super Calcio HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/6508.ts
+#EXTINF:-1,(BE) ELEVEN SPORTS 1
+http://vmdirect.co.uk:5001/live/sharon/sharon/72449.ts
+#EXTINF:-1,(BE) ELEVEN SPORTS 2
+http://vmdirect.co.uk:5001/live/sharon/sharon/72448.ts
+#EXTINF:-1,(FR) BEIN SPORT 1 HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/72559.ts
+#EXTINF:-1,(FR) BEIN SPORT 2 HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/72558.ts
+#EXTINF:-1,(FR) BEIN SPORT 3 HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/72557.ts
+#EXTINF:-1,(FR) BEIN SPORT MAX 10
+http://vmdirect.co.uk:5001/live/sharon/sharon/72550.ts
+#EXTINF:-1,(FR) BEIN SPORT MAX 4
+http://vmdirect.co.uk:5001/live/sharon/sharon/72556.ts
+#EXTINF:-1,(FR) BEIN SPORT MAX 5
+http://vmdirect.co.uk:5001/live/sharon/sharon/72555.ts
+#EXTINF:-1,(FR) BEIN SPORT MAX 6
+http://vmdirect.co.uk:5001/live/sharon/sharon/72554.ts
+#EXTINF:-1,(FR) BEIN SPORT MAX 7
+http://vmdirect.co.uk:5001/live/sharon/sharon/72553.ts
+#EXTINF:-1,(FR) BEIN SPORT MAX 8
+http://vmdirect.co.uk:5001/live/sharon/sharon/72552.ts
+#EXTINF:-1,(FR) BEIN SPORT MAX 9
+http://vmdirect.co.uk:5001/live/sharon/sharon/72551.ts
+#EXTINF:-1,(FR) CANAL  SPORT HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/72566.ts
+#EXTINF:-1,(FR) RMC SPORT 1
+http://vmdirect.co.uk:5001/live/sharon/sharon/72564.ts
+#EXTINF:-1,(FR) RMC SPORT 2
+http://vmdirect.co.uk:5001/live/sharon/sharon/72563.ts
+#EXTINF:-1,(FR) RMC SPORT 3
+http://vmdirect.co.uk:5001/live/sharon/sharon/72562.ts
+#EXTINF:-1,(FR) RMC SPORT 4
+http://vmdirect.co.uk:5001/live/sharon/sharon/72561.ts
+#EXTINF:-1,NL: Fox Sports 2 HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/3354.ts
+#EXTINF:-1,NL: Fox Sports 3 HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/3353.ts
+#EXTINF:-1,NL: FOX SPORTS 5
+http://vmdirect.co.uk:5001/live/sharon/sharon/3838.ts
+#EXTINF:-1,NL: FOX SPORTS 6
+http://vmdirect.co.uk:5001/live/sharon/sharon/3837.ts
+#EXTINF:-1,NL: Ziggo Sport HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/3872.ts
+#EXTINF:-1,NL: ZIGGO SPORT RACING
+http://vmdirect.co.uk:5001/live/sharon/sharon/3831.ts
+#EXTINF:-1,NL: ZIGGO SPORT SELECT
+http://vmdirect.co.uk:5001/live/sharon/sharon/3832.ts
+#EXTINF:-1,NL: ZIGGO SPORT VOETBALL
+http://vmdirect.co.uk:5001/live/sharon/sharon/3830.ts
+#EXTINF:-1,DE:Eurosport_1_HDger
+http://vmdirect.co.uk:5001/live/sharon/sharon/72792.ts
+#EXTINF:-1,DE:Eurosport_2_HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/72790.ts
+#EXTINF:-1,DE:Eurosport_2_HD_Xtra
+http://vmdirect.co.uk:5001/live/sharon/sharon/72791.ts
+#EXTINF:-1,DE:Sky_Sport_1_HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/72799.ts
+#EXTINF:-1,DE:Sky_Sport_Austria_HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/72797.ts
+#EXTINF:-1,DE:Sky_Sport_Bundesliga_1_HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/72796.ts
+#EXTINF:-1,DE:Sky_Sport_News_HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/72800.ts
+#EXTINF:-1,DE:Spiegel_Geschichte
+http://vmdirect.co.uk:5001/live/sharon/sharon/72751.ts
+#EXTINF:-1,DE:SPORT1_HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/72772.ts
+#EXTINF:-1,PT: Kombat Sport
+http://vmdirect.co.uk:5001/live/sharon/sharon/3917.ts
+#EXTINF:-1,PT: SPORT TV+
+http://vmdirect.co.uk:5001/live/sharon/sharon/3783.ts
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/3772.ts
+#EXTINF:-1,PT: SPORT TV 2
+http://vmdirect.co.uk:5001/live/sharon/sharon/3771.ts
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/3770.ts
+#EXTINF:-1,PT: SPORT TV 4
+http://vmdirect.co.uk:5001/live/sharon/sharon/3769.ts
+#EXTINF:-1,PT: SPORT TV 5
+http://vmdirect.co.uk:5001/live/sharon/sharon/3768.ts
+#EXTINF:-1,XXX:  REDLIGHT
+http://vmdirect.co.uk:5001/live/sharon/sharon/6235.ts
+#EXTINF:-1,XXX-BRAZZERS
+http://vmdirect.co.uk:5001/live/sharon/sharon/6693.ts
+#EXTINF:-1,XXX-RK
+http://vmdirect.co.uk:5001/live/sharon/sharon/6688.ts
+#EXTINF:-1,XXX-SCT
+http://vmdirect.co.uk:5001/live/sharon/sharon/6687.ts
+#EXTINF:-1,XXX: FAKE AGENT
+http://vmdirect.co.uk:5001/live/sharon/sharon/6683.ts
+#EXTINF:-1,XXX: HOT HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/6690.ts
+#EXTINF:-1,XXX: Nubiles Porn
+http://vmdirect.co.uk:5001/live/sharon/sharon/6679.ts
+#EXTINF:-1,XXX:adult
+http://vmdirect.co.uk:5001/live/sharon/sharon/6671.ts
+#EXTINF:-1,XXX:BANG HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/6673.ts
+#EXTINF:-1,XXX:BEATY-UHSE.TV
+http://vmdirect.co.uk:5001/live/sharon/sharon/6695.ts
+#EXTINF:-1,XXX:Cento X Conto
+http://vmdirect.co.uk:5001/live/sharon/sharon/6677.ts
+#EXTINF:-1,XXX:Czech Castings
+http://vmdirect.co.uk:5001/live/sharon/sharon/6684.ts
+#EXTINF:-1,XXX:DORCEL CLUB
+http://vmdirect.co.uk:5001/live/sharon/sharon/6678.ts
+#EXTINF:-1,XXX:DUSK
+http://vmdirect.co.uk:5001/live/sharon/sharon/6691.ts
+#EXTINF:-1,XXX:Evil Angel
+http://vmdirect.co.uk:5001/live/sharon/sharon/6674.ts
+#EXTINF:-1,xxx:Fake Taxi
+http://vmdirect.co.uk:5001/live/sharon/sharon/6685.ts
+#EXTINF:-1,XXX:JASMIN TV
+http://vmdirect.co.uk:5001/live/sharon/sharon/6686.ts
+#EXTINF:-1,XXX:MIX
+http://vmdirect.co.uk:5001/live/sharon/sharon/6692.ts
+#EXTINF:-1,XXX:Mix2
+http://vmdirect.co.uk:5001/live/sharon/sharon/6672.ts
+#EXTINF:-1,XXX:Mix3
+http://vmdirect.co.uk:5001/live/sharon/sharon/6681.ts
+#EXTINF:-1,XXX:Nubiles Casting
+http://vmdirect.co.uk:5001/live/sharon/sharon/6680.ts
+#EXTINF:-1,XXX:PINK EROTIC 1
+http://vmdirect.co.uk:5001/live/sharon/sharon/6669.ts
+#EXTINF:-1,XXX:PINK EROTIC 2
+http://vmdirect.co.uk:5001/live/sharon/sharon/6668.ts
+#EXTINF:-1,XXX:PINK EROTIC 3
+http://vmdirect.co.uk:5001/live/sharon/sharon/6667.ts
+#EXTINF:-1,XXX:PINK EROTIC 4
+http://vmdirect.co.uk:5001/live/sharon/sharon/6666.ts
+#EXTINF:-1,XXX:PINK EROTIC 6
+http://vmdirect.co.uk:5001/live/sharon/sharon/6665.ts
+#EXTINF:-1,XXX:PINK EROTIC 7
+http://vmdirect.co.uk:5001/live/sharon/sharon/6664.ts
+#EXTINF:-1,XXX:PINK EROTIC 8*
+http://vmdirect.co.uk:5001/live/sharon/sharon/6663.ts
+#EXTINF:-1,XXX:PINK TV
+http://vmdirect.co.uk:5001/live/sharon/sharon/6670.ts
+#EXTINF:-1,XXX:PLAYBOY HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/6689.ts
+#EXTINF:-1,XXX:Porn Hub
+http://vmdirect.co.uk:5001/live/sharon/sharon/6675.ts
+#EXTINF:-1,XXX:SEXTO SENSO
+http://vmdirect.co.uk:5001/live/sharon/sharon/6676.ts
+#EXTINF:-1,XXX:SUPER ONE HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/6682.ts
+#EXTINF:-1,XXX:VENUS
+http://vmdirect.co.uk:5001/live/sharon/sharon/6694.ts
+#EXTINF:-1,|ES| BEIN LALIGA
+http://vmdirect.co.uk:5001/live/sharon/sharon/37892.ts
+#EXTINF:-1,|ES| BEIN LIGA HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/37887.ts
+#EXTINF:-1,|ES| BEIN SPORT HD
+http://vmdirect.co.uk:5001/live/sharon/sharon/37882.ts
+#EXTINF:-1,|ES| BEINSPORT
+http://vmdirect.co.uk:5001/live/sharon/sharon/37883.ts
+#EXTINF:-1,IN: Sony Ten 1
+http://vmdirect.co.uk:5001/live/sharon/sharon/45265.ts
+#EXTINF:-1,sky Net Sports 1
+http://vmdirect.co.uk:5001/live/sharon/sharon/237.ts
+#EXTINF:-1,sky Net Sports 2
+http://vmdirect.co.uk:5001/live/sharon/sharon/238.ts
+#EXTINF:-1,sky Net Sports 3
+http://vmdirect.co.uk:5001/live/sharon/sharon/239.ts
+#EXTINF:-1,sky Net Sports 4
+http://vmdirect.co.uk:5001/live/sharon/sharon/240.ts
+#EXTINF:-1,sky Net Sports 5
+http://vmdirect.co.uk:5001/live/sharon/sharon/241.ts
+#EXTINF:-1,sky Net Sports 6
+http://vmdirect.co.uk:5001/live/sharon/sharon/242.ts
+#EXTINF:-1,SR: Sport Klub 1 HD HR
+http://vmdirect.co.uk:5001/live/sharon/sharon/3168.ts
+#EXTINF:-1,SR: Sport Klub 2 HD HR
+http://vmdirect.co.uk:5001/live/sharon/sharon/3167.ts
+#EXTINF:-1,SR: Sport Klub 3 HD HR
+http://vmdirect.co.uk:5001/live/sharon/sharon/3166.ts
+#EXTINF:-1,Astro Supersport 4
+http://vmdirect.co.uk:5001/live/sharon/sharon/9800.ts
+#EXTINF:-1,Astro Supersports 1
+http://vmdirect.co.uk:5001/live/sharon/sharon/9797.ts
+#EXTINF:-1,Astro Supersports 2
+http://vmdirect.co.uk:5001/live/sharon/sharon/9798.ts
+#EXTINF:-1,Astro Supersports 3
+http://vmdirect.co.uk:5001/live/sharon/sharon/9799.ts
+
 
 
 #EXTINF:-1,LOKAL CHANNEL
