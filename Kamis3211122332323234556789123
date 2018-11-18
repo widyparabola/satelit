@@ -498,10 +498,8 @@ http://id2.indostreamingtv.com/live/event/index.m3u8
 http://id2.indostreamingtv.com/live/tv33/index.m3u8
 #EXTINF:-1,Trans 7
 http://id8.indostreamingtv.com/live/tv77/index.m3u8
-#EXTINF:-1,Rcti
-http://id8.indostreamingtv.com/live/tv6/index.m3u8
-#EXTINF:0,RCTI 2
-http://edge.okezone.com/live/rctioke.m3u8
+
+
 #EXTINF:-1,Antv
 http://id2.indostreamingtv.com/live/tv4/index.m3u8
 #EXTINF:-1,Metrotv
@@ -3986,48 +3984,3 @@ http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1716.ts
 #EXTINF:-1 tvg-ID="" tvg-name="FR: Canal  Cinema HD" tvg-logo="" group-title="FRANCE",FR: Canal  Cinema HD
 http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1791.ts
 
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1740.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BOING" tvg-logo="" group-title="FRANCE",FR: BOING
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1743.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BFM TV" tvg-logo="" group-title="FRANCE",FR: BFM TV
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1738.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BFM" tvg-logo="" group-title="FRANCE",FR: BFM
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1739.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BEINSPORT_MAX5" tvg-logo="" group-title="FRANCE",FR: BEINSPORT_MAX5
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1723.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: beINSport 2 HD" tvg-logo="" group-title="FRANCE",FR: beINSport 2 HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1718.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: beINSport 1 HD" tvg-logo="" group-title="FRANCE",FR: beINSport 1 HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1717.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: beINSport  3 HD" tvg-logo="" group-title="FRANCE",FR: beINSport  3 HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1719.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sport Max 9" tvg-logo="" group-title="FRANCE",FR: Bein Sport Max 9
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1730.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sport Max 8" tvg-logo="" group-title="FRANCE",FR: Bein Sport Max 8
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1729.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sport Max 7" tvg-logo="" group-title="FRANCE",FR: Bein Sport Max 7
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1728.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sport Max 6" tvg-logo="" group-title="FRANCE",FR: Bein Sport Max 6
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1727.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sport Max 5" tvg-logo="" group-title="FRANCE",FR: Bein Sport Max 5
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1726.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Bein Sport Max 10" tvg-logo="" group-title="FRANCE",FR: Bein Sport Max 10
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1725.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BEiN SPORT 3 Backup" tvg-logo="" group-title="FRANCE",FR: BEiN SPORT 3 Backup
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1722.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BEiN SPORT 2 Backup" tvg-logo="" group-title="FRANCE",FR: BEiN SPORT 2 Backup
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1721.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BEiN SPORT 1 Backup" tvg-logo="" group-title="FRANCE",FR: BEiN SPORT 1 Backup
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1720.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: BEIN MAX 4" tvg-logo="" group-title="FRANCE",FR: BEIN MAX 4
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1731.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Animaux HD" tvg-logo="" group-title="FRANCE",FR: Animaux HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1755.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: Action HD" tvg-logo="" group-title="FRANCE",FR: Action HD
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1792.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR: AB 1" tvg-logo="" group-title="FRANCE",FR: AB 1
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1674.ts
-
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1827.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR : Bein Sport max 4" tvg-logo="" group-title="FRANCE",FR : Bein Sport max 4
-http://ex.ipnostop.com:8000/live/live:mtg_2406_1/OoO7NI86Df/1724.ts
