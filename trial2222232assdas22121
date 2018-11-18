@@ -1,0 +1,611 @@
+#EXTM3U
+#EXTINF:0 group-title="AF: Afghanistan",AF: SMASH SPORTS 
+http://144.76.182.50:25461/live/smash/smash/4.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: KASS SPORTS 2 
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/152.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: KASS SPORTS 2 (1+) 
+http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2544.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: KASS SPORTS 3 
+http://dafsports.ddns.net:86/live/Azzeddine_iptv/Best_for_YOU/153.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: KASS SPORTS 5 
+http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2546.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: MOTORSPORT TV HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/28980.ts
+#EXTINF:0 group-title="AL: Albania",AL: SHARJAH SPORT 
+http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/2540.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: SOCCER HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32313.ts
+#EXTINF:0 group-title="AL: Albania",AL: SOCCER 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32294.ts
+#EXTINF:0 group-title="AL: Albania",AL: SOCCER (1+) 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32296.ts
+#EXTINF:0 group-title="AL: Albania",AL: SOCCER (2+) 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32298.ts
+#EXTINF:0 group-title="AL: Albania",AL: SOCCER (3+) 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32304.ts
+#EXTINF:0 group-title="AL: Albania",AL: SOCCER (4+) 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32312.ts
+#EXTINF:0 group-title="AL: Albania",AL: SUPER SPORT 1 HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/28872.ts
+#EXTINF:0 group-title="AL: Albania",AL: SUPER SPORT 2 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/28869.ts
+#EXTINF:0 group-title="AL: Albania",AL: SUPER SPORT KOSOVA 1 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/28860.ts
+#EXTINF:0 group-title="AL: Albania",AL: SUPER SPORT KOSOVA 2 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/28858.ts
+#EXTINF:0 group-title="AL: Albania",AL: SUPERSPORT 3 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/28853.ts
+#EXTINF:0 group-title="AL: Albania",AL: SUPERSPORT 4 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/28852.ts
+#EXTINF:0 group-title="AL: Albania",AL: TRING SPORT 1 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/28821.ts
+#EXTINF:0 group-title="AL: Albania",AL: TRING SPORT 2 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/28819.ts
+#EXTINF:0 group-title="AL: Albania",AL: TRING SPORT 3 HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/28818.ts
+#EXTINF:0 group-title="AL: Albania",AL: TRING SPORT 4 HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/28816.ts
+#EXTINF:0 group-title="AL: Albania",AL: TV DIASPORA 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/28806.ts
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 HD
+http://www.elahmad.com/tv/m3u8/adtv.ts
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 (1+) HD
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 2 HD
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 2 
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BAHRAIN SPORTS 
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/140.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 1 HD
+http://163.172.211.229:8000/live/beinsp/beinap/763.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 1 (1+) HD
+http://163.172.211.229:8000/live/beintst/beintest/763.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 1 (2+) HD
+http://173.249.53.3:8000/live/ciMJoxbqqd/gEby1Sjcb9/502.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 1 (3+) HD
+http://68.183.106.158:8000/live/mxu0T1APOW/freeiptvdaily.tv/1.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 10 HD
+http://163.172.211.229:8000/live/beintst/beintesrt/781.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 2 HD
+http://163.172.211.229:8000/live/beintst/beintest/765.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 2 (1+) HD
+http://163.172.211.229:8000/live/beintst/beintesrt/765.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 2 (2+) HD
+http://173.249.53.3:8000/live/ciMJoxbqqd/gEby1Sjcb9/503.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 2 
+http://163.172.211.229:8000/live/beinsp/beinap/764.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 2 (1+) 
+http://163.172.211.229:8000/live/beintst/beintesrt/764.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 3 HD
+http://173.249.53.3:8000/live/ciMJoxbqqd/gEby1Sjcb9/504.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 3 
+http://163.172.211.229:8000/live/beintst/beintest/766.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 3 (1+) 
+http://163.172.211.229:8000/live/beintst/beintesrt/766.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 4 HD
+http://163.172.211.229:8000/live/beintst/beintesrt/769.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 4 (1+) HD
+http://173.249.53.3:8000/live/ciMJoxbqqd/gEby1Sjcb9/505.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 4 
+http://163.172.211.229:8000/live/beintst/beintest/768.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 5 HD
+http://163.172.211.229:8000/live/beinsp/beinap/771.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 5 (1+) HD
+http://173.249.53.3:8000/live/ciMJoxbqqd/gEby1Sjcb9/506.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 5 (2+) HD
+http://68.183.106.158:8000/live/mxu0T1APOW/freeiptvdaily.tv/5.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 6 HD
+http://163.172.211.229:8000/live/beintst/beintest/773.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 6 
+http://163.172.211.229:8000/live/beintst/beintest/772.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 6 (1+) 
+http://163.172.211.229:8000/live/beintst/beintesrt/772.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 6 (2+) 
+http://68.183.106.158:8000/live/mxu0T1APOW/freeiptvdaily.tv/121.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 7 HD
+http://68.183.106.158:8000/live/mxu0T1APOW/freeiptvdaily.tv/7.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 7 
+http://163.172.211.229:8000/live/beintst/beintest/774.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 7 (1+) 
+http://163.172.211.229:8000/live/beintst/beintesrt/774.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 7 (2+) 
+http://68.183.106.158:8000/live/mxu0T1APOW/freeiptvdaily.tv/122.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 8 HD
+http://163.172.211.229:8000/live/beinsp/beinap/777.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 8 (1+) HD
+http://163.172.211.229:8000/live/beintst/beintest/777.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 8 
+http://163.172.211.229:8000/live/beinsp/beinap/776.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 8 (1+) 
+http://163.172.211.229:8000/live/beintst/beintesrt/776.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 8 (2+) 
+http://68.183.106.158:8000/live/mxu0T1APOW/freeiptvdaily.tv/123.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 9 HD
+http://163.172.211.229:8000/live/beintst/beintesrt/779.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 9 
+http://163.172.211.229:8000/live/beinsp/beinap/778.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI RACING 2 HD
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/14.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORT 2 
+http://207.180.233.49:5001/live/Errol/Errol/32192.ts
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORT SPORTS 
+http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORTS HD
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORTS3 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/30056.ts
+#EXTINF:0 group-title="AR: Arabia",AR: ESPN 3 HD
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/9260.ts
+#EXTINF:0 group-title="AR: Arabia",AR: IRAQ SPORT 
+http://207.180.233.49:5001/live/Errol/Errol/31931.ts
+#EXTINF:0 group-title="AR: Arabia",AR: MBC SPORTS 2 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/30015.ts
+#EXTINF:0 group-title="AR: Arabia",AR: MBC SPORTS PRO3 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/30016.ts
+#EXTINF:0 group-title="AR: Arabia",AR: NILE SPORT 
+http://207.180.233.49:5001/live/Errol/Errol/32275.ts
+#EXTINF:0 group-title="AR: Arabia",AR: OMAN SPORT 
+http://207.180.233.49:5001/live/Errol/Errol/32105.ts
+#EXTINF:0 group-title="AR: Arabia",AR: SOCCER HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32220.ts
+#EXTINF:0 group-title="BG: Bulgaria",BG: MTEL SPORT 1 HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/30201.ts
+#EXTINF:0 group-title="BG: Bulgaria",BG: SOCCER HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32090.ts
+#EXTINF:0 group-title="BG: Bulgaria",BG: SPORT PLUS HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/30171.ts
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORT 2 
+http://sesat.tk:25461/live/hakkom1977/79872232/4445.ts
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORTS 1 HD
+http://68.183.106.158:8000/live/mxu0T1APOW/freeiptvdaily.tv/10.m3u8
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORTS 2 HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/30704.ts
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORTS 2 
+http://dafsports.ddns.net:86/live/SPTV/SPTV/36.m3u8
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORTS 4 MAX 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/30702.ts
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORTS 9 MAX 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/30697.ts
+#EXTINF:0 group-title="FR: France",FR: BEINSPORTMAX8 
+http://sesat.tk:25461/live/hakkom1977/79872232/4439.ts
+#EXTINF:0 group-title="FR: France",FR: BFM SPORT 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/30696.ts
+#EXTINF:0 group-title="FR: France",FR: EUROSPORT SPORTS 
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
+#EXTINF:0 group-title="FR: France",FR: SOCCER HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32207.ts
+#EXTINF:0 group-title="FR: France",FR: SOCCER 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32201.ts
+#EXTINF:0 group-title="FR: France",FR: SOCCER (1+) 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32204.ts
+#EXTINF:0 group-title="DE: Germany",DE: ABU DHABI SPORTS 2 
+http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3589.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: ALBANIAIPTV COM-SKY SPORT 1 HD
+http://51.15.3.71:8000/live/albi322/kanale666/85.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: ALBANIAIPTV COM-SKY SPORT 3 HD
+http://51.15.3.71:8000/live/albi322/kanale666/87.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: ASO SPORTS 
+http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3577.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: BEIN SPORTS 1 HD
+http://man-iptv.spdns.de:8000/live/fBAynD95qt/9nZDyMRlzn/3548.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: BEIN SPORTS 2 LOW 
+http://man-iptv.spdns.de:8000/live/fBAynD95qt/9nZDyMRlzn/3428.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: BEIN SPORTS 5 HD
+http://man-iptv.spdns.de:8000/live/fBAynD95qt/9nZDyMRlzn/3552.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: BEIN SPORTS 5 
+http://man-iptv.spdns.de:8000/live/fBAynD95qt/9nZDyMRlzn/3423.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: BEIN SPORTS 6 HD
+http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3791.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: BEIN SPORTS 6 
+http://man-iptv.spdns.de:8000/live/fBAynD95qt/9nZDyMRlzn/3424.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: BEIN SPORTS 7 LOW 
+http://man-iptv.spdns.de:8000/live/fBAynD95qt/9nZDyMRlzn/3433.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: BEIN SPORTS 8 LOW 
+http://man-iptv.spdns.de:8000/live/fBAynD95qt/9nZDyMRlzn/3434.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: BEIN SPORTS 9 HD
+http://man-iptv.spdns.de:8000/live/fBAynD95qt/9nZDyMRlzn/3556.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: MYSPORTS 3 HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32470.ts
+#EXTINF:0 group-title="DE: Germany",DE: MYSPORTS 5 HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32468.ts
+#EXTINF:0 group-title="DE: Germany",DE: MYSPORTS 7 HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32466.ts
+#EXTINF:0 group-title="DE: Germany",DE: PL POLSAT SPORT EXTRA HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2051.ts
+#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT 
+http://tvpemobil.net/sport/live2/marius111/4ffogT3a1R/18.ts
+#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT 10 
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/745.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT 2 HD
+http://163.172.45.71:6464/live/prostreaming/piBvVCsyYS/739.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT 2 
+http://titaniptv.com:9140/live/ojjZMPQGF1/nt3bNSDtbx/902.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT 3 HD
+http://51.15.3.71:8000/live/alb3.0/www.albboxapp.xyz/87.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT 3 
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/748.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT 4 HD
+http://51.15.3.71:8000/live/alb3.0/www.albboxapp.xyz/88.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT 6 
+http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/751.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SOCCER HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32257.ts
+#EXTINF:0 group-title="DE: Germany",DE: SOCCER (1+) HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32261.ts
+#EXTINF:0 group-title="DE: Germany",DE: SOCCER (2+) HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32262.ts
+#EXTINF:0 group-title="DE: Germany",DE: SOCCER (3+) HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32269.ts
+#EXTINF:0 group-title="DE: Germany",DE: SOCCER (4+) HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32273.ts
+#EXTINF:0 group-title="DE: Germany",DE: SOCCER (5+) HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32277.ts
+#EXTINF:0 group-title="DE: Germany",DE: SOCCER (6+) HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32282.ts
+#EXTINF:0 group-title="DE: Germany",DE: SOCCER (7+) HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32284.ts
+#EXTINF:0 group-title="DE: Germany",DE: SOCCER (8+) HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32285.ts
+#EXTINF:0 group-title="DE: Germany",DE: SOCCER 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32266.ts
+#EXTINF:0 group-title="DE: Germany",DE: SOCCER (1+) 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32267.ts
+#EXTINF:0 group-title="DE: Germany",DE: SOCCER (2+) 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32278.ts
+#EXTINF:0 group-title="DE: Germany",DE: SPORT 1 HD
+http://163.172.45.71:6464/live/prostreaming/piBvVCsyYS/735.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: THE RACES 
+http://sesat.tk:25461/live/hakkom1977/79872232/5193.ts
+#EXTINF:0 group-title="GR: Greece",GR: OTE SPORT 5 HD
+http://173.249.53.3:8000/live/itgrtest/grtest1/295.m3u8
+#EXTINF:0 group-title="GR: Greece",GR: OTE SPORT 6 HD
+http://173.249.53.3:8000/live/itgrtest/grtest1/296.m3u8
+#EXTINF:0 group-title="GR: Greece",GR: RO DIGI SPORT 3 HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/30826.ts
+#EXTINF:0 group-title="GR: Greece",GR: SOCCER SP 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32084.ts
+#EXTINF:0 group-title="GR: Greece",GR: SOCCER SP (1+) 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32085.ts
+#EXTINF:0 group-title="IT: Italy",IT: ALBANIAIPTV COM-SKYSPORT 3 HD
+http://51.15.3.71:8000/live/albi322/kanale666/79.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: ALBANIAIPTV COM-SKYSPORT 3 (1+) HD
+http://51.15.3.71:8000/live/albi322/kanale666/80.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: MYSPORTS 6 / FR HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32475.ts
+#EXTINF:0 group-title="IT: Italy",IT: MYSPORTS 8 / FR HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32473.ts
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 1 HD
+http://173.249.53.3:8000/live/itgrtest/grtest1/233.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 1HD 
+http://sesat.tk:25461/live/hakkom1977/79872232/18305.ts
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 2 
+http://173.249.53.3:8000/live/itgrtest/grtest1/234.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 24 HD
+http://sesat.tk:25461/live/hakkom1977/79872232/18301.ts
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 3 
+http://173.249.53.3:8000/live/test/test1/235.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 3 (1+) 
+http://173.249.53.3:8000/live/Itatest/Testita/235.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 3 (2+) 
+http://173.249.53.3:8000/live/itgrtest/grtest1/235.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORTS F1 HD
+http://173.249.53.3:8000/live/Itatest/Testita/236.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKYSPORT 1 HD
+http://51.15.3.71:8000/live/alb3.0/www.albboxapp.xyz/78.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TELEROMAGNA SPORT 
+http://livetr.teleromagna.it/sport/live/playlist.m3u8
+#EXTINF:0 group-title="MX: Mexico",MX: BIKE CHANNEL HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/20651.ts
+#EXTINF:0 group-title="MX: Mexico",MX: BIKE CHANNEL (1+) HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/26766.ts
+#EXTINF:0 group-title="MX: Mexico",MX: DAZN SPORT 1 HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32840.ts
+#EXTINF:0 group-title="MX: Mexico",MX: DAZN SPORT 3 HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32838.ts
+#EXTINF:0 group-title="MX: Mexico",MX: DAZN SPORT 7 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32834.ts
+#EXTINF:0 group-title="MX: Mexico",MX: DRAGONBALL CHANNEL 
+http://play-rock-tv.co:8000/live/vince10/295vince10/48268.ts
+#EXTINF:0 group-title="MX: Mexico",MX: EUROSPORT 1 HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/4156.ts
+#EXTINF:0 group-title="MX: Mexico",MX: EUROSPORT 2 HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/28470.ts
+#EXTINF:0 group-title="MX: Mexico",MX: MOTOR TREND 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32825.ts
+#EXTINF:0 group-title="MX: Mexico",MX: RAI SPORT HD
+http://play-rock-tv.co:8000/live/vince10/295vince10/1734.ts
+#EXTINF:0 group-title="MX: Mexico",MX: RAI SPORT 1 HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/13609.ts
+#EXTINF:0 group-title="MX: Mexico",MX: RAI SPORT PLUS HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/28527.ts
+#EXTINF:0 group-title="MX: Mexico",MX: SKY SPORT 
+http://play-rock-tv.co:8000/live/vince10/295vince10/1469.ts
+#EXTINF:0 group-title="MX: Mexico",MX: SKY SPORT 1 HD
+http://play-rock-tv.co:8000/live/vince10/295vince10/44265.ts
+#EXTINF:0 group-title="MX: Mexico",MX: SKY SPORT 24 HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/28432.ts
+#EXTINF:0 group-title="MX: Mexico",MX: SKY SPORT 251 HD
+http://play-rock-tv.co:8000/live/vince10/295vince10/1866.ts
+#EXTINF:0 group-title="MX: Mexico",MX: SKY SPORT 252 
+http://play-rock-tv.co:8000/live/vince10/295vince10/45690.ts
+#EXTINF:0 group-title="MX: Mexico",MX: SKY SPORT 253 HD
+http://play-rock-tv.co:8000/live/vince10/295vince10/47955.ts
+#EXTINF:0 group-title="MX: Mexico",MX: SKY SPORT 254 HD
+http://play-rock-tv.co:8000/live/vince10/295vince10/1863.ts
+#EXTINF:0 group-title="MX: Mexico",MX: SKY SPORT 258 HD
+http://play-rock-tv.co:8000/live/vince10/295vince10/1859.ts
+#EXTINF:0 group-title="MX: Mexico",MX: SKY SPORT 260 HD
+http://play-rock-tv.co:8000/live/vince10/295vince10/1857.m3u8
+#EXTINF:0 group-title="MX: Mexico",MX: SKY SPORT 261 HD
+http://play-rock-tv.co:8000/live/vince10/295vince10/37297.ts
+#EXTINF:0 group-title="MX: Mexico",MX: SKY SPORT F1 HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/24626.ts
+#EXTINF:0 group-title="MX: Mexico",MX: SKY SPORT GOLF HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/24628.ts
+#EXTINF:0 group-title="MX: Mexico",MX: SKY SPORT MOTOGP HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/24627.ts
+#EXTINF:0 group-title="MX: Mexico",MX: SKY SPORT PLUS HD
+http://play-rock-tv.co:8000/live/vince10/295vince10/1651.ts
+#EXTINF:0 group-title="MX: Mexico",MX: SKY SPORT UNO HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/2480.ts
+#EXTINF:0 group-title="MX: Mexico",MX: SKY SPORT UNO (1+) HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/24562.ts
+#EXTINF:0 group-title="MX: Mexico",MX: VETRINA DAZN SPORT 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32841.ts
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 1 
+http://sesat.tk:25461/live/hakkom1977/79872232/18169.ts
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 4 
+http://sesat.tk:25461/live/hakkom1977/79872232/18166.ts
+#EXTINF:0 group-title="NL: Netherlands",NL: SOCCER HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32174.ts
+#EXTINF:0 group-title="NL: Netherlands",NL: SOCCER (1+) HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32177.ts
+#EXTINF:0 group-title="NL: Netherlands",NL: SOCCER 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32167.ts
+#EXTINF:0 group-title="NL: Netherlands",NL: SOCCER (1+) 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32171.ts
+#EXTINF:0 group-title="PL: Poland",PL: ELEVEN SPORTS 3 HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31113.ts
+#EXTINF:0 group-title="PL: Poland",PL: ELEVEN SPORTS 4 
+http://play-rock-tv.co:8000/live/vince10/295vince10/55518.ts
+#EXTINF:0 group-title="PL: Poland",PL: POLSAT SPORT EXTRA HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31090.ts
+#EXTINF:0 group-title="PL: Poland",PL: SOCCER HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32154.ts
+#EXTINF:0 group-title="PL: Poland",PL: SOCCER (1+) HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32155.ts
+#EXTINF:0 group-title="PL: Poland",PL: SOCCER (2+) HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32156.ts
+#EXTINF:0 group-title="PL: Poland",PL: SOCCER (3+) HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32157.ts
+#EXTINF:0 group-title="PL: Poland",PL: SOCCER (4+) HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32160.ts
+#EXTINF:0 group-title="PL: Poland",PL: SOCCER (5+) HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32162.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SOCCER HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32102.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SOCCER (1+) HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32106.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/30228.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 (1+) 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31182.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 2 HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31179.ts
+#EXTINF:0 group-title="PT: Portugal",PT: SPORTV 3 HD
+http://merlin.magikdata.biz:8000/live/iGsz07Z021/JDh8xWQ9KV/204.m3u8
+#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 3 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31268.ts
+#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORTS 4 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31263.ts
+#EXTINF:0 group-title="RU: Russia",RU: AUTOMOTO TV 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/635/index.m3u8
+#EXTINF:0 group-title="RU: Russia",RU: MOVISTAR GOLF 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
+#EXTINF:0 group-title="RU: Russia",RU: SKY SPORT 1 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/746/index.m3u8
+#EXTINF:0 group-title="RU: Russia",RU: SPORT 
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: ALBANIAIPTV COM-ARENASPORT 3 HD
+http://51.15.3.71:8000/live/albi322/kanale666/92.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: ARENA SPORT 1 
+http://titaniptv.com:9140/live/ojjZMPQGF1/nt3bNSDtbx/87.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: ARENA SPORT 5 
+http://titaniptv.com:9140/live/ojjZMPQGF1/nt3bNSDtbx/91.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: ARENA SPORT 5 (1+) 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/29720.ts
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: ARENASPORT 1 HD
+http://51.15.3.71:8000/live/alb3.0/www.albboxapp.xyz/90.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: ARENASPORT 2 HD
+http://51.15.3.71:8000/live/alb3.0/www.albboxapp.xyz/91.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: ARENASPORT 3 HD
+http://51.15.3.71:8000/live/alb3.0/www.albboxapp.xyz/92.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: SOCCER 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32127.ts
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: SOCCER (1+) 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32134.ts
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: SPORT KLUB 1 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/29526.ts
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: SPORT KLUB 1 (1+) 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/29527.ts
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: SPORT TV 2 SLO HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/29515.ts
+#EXTINF:0 group-title="SP: Spain",SP: EUROSPORT 2 
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/748.ts
+#EXTINF:0 group-title="SP: Spain",SP: SOCCER HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32073.ts
+#EXTINF:0 group-title="SP: Spain",SP: SOCCER (1+) HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32076.ts
+#EXTINF:0 group-title="SP: Spain",SP: SOCCER (2+) HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32077.ts
+#EXTINF:0 group-title="SP: Spain",SP: SOCCER (3+) HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32078.ts
+#EXTINF:0 group-title="SP: Spain",SP: SOCCER (4+) HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32184.ts
+#EXTINF:0 group-title="SP: Spain",SP: SOCCER (5+) HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32186.ts
+#EXTINF:0 group-title="SP: Spain",SP: SOCCER (6+) HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32191.ts
+#EXTINF:0 group-title="SP: Spain",SP: SOCCER 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32109.ts
+#EXTINF:0 group-title="SP: Spain",SP: SOCCER (1+) 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32110.ts
+#EXTINF:0 group-title="SP: Spain",SP: SOCCER (2+) 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32112.ts
+#EXTINF:0 group-title="CH: Switzerland",CH: SOCCER 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32254.ts
+#EXTINF:0 group-title="TR: Turkey",TR: A SPOR HD
+http://163.172.45.71:6464/live/prostreaming/piBvVCsyYS/305.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN SPORTS 1 
+http://sesat.tk:25461/live/hakkom1977/79872232/4454.ts
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN SPORTS 2 HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31711.ts
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN SPORTS 3 HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31710.ts
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN SPORTS HABER HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31708.ts
+#EXTINF:0 group-title="TR: Turkey",TR: JUSTICE LEAGUE DOOM 
+http://1290922571.rsc.cdn77.org/movies/Justice-League-Doom-2012.mp4/playlist.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: NTV SPOR 
+http://www.iptvsaga.com/play/tv3/0057.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: SOCCER HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32142.ts
+#EXTINF:0 group-title="TR: Turkey",TR: SOCCER (1+) HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32151.ts
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 2 HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31585.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: AR BEIN SPORTS 11 HD
+http://163.172.211.229:8000/live/beinsp/beinap/783.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: AR BEIN SPORTS 11 (1+) HD
+http://163.172.211.229:8000/live/beintst/beintest/783.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: AR BEIN SPORTS 11 
+http://163.172.211.229:8000/live/beintst/beintest/782.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: AR BEIN SPORTS 12 HD
+http://163.172.211.229:8000/live/beintst/beintest/784.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: AR BEIN SPORTS 12 (1+) HD
+http://163.172.211.229:8000/live/beintst/beintesrt/784.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: AT THE RACES 
+http://vmdirect.co.uk:5001/live/Errol/Errol/89.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BEIN SPORT 2 HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31923.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BEIN SPORT 5 HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31920.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BEIN SPORT 9 HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31916.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BOXNATION HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/23882.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 1 HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/86.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 1 
+http://titaniptv.com:9140/live/ojjZMPQGF1/nt3bNSDtbx/969.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 2 HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT EXTRA 1 
+http://vmdirect.co.uk:5001/live/Errol/Errol/79.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT EXTRA 2 
+http://vmdirect.co.uk:5001/live/Errol/Errol/78.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT EXTRA 4 
+http://vmdirect.co.uk:5001/live/Errol/Errol/35.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT EXTRA 6 
+http://vmdirect.co.uk:5001/live/Errol/Errol/33.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHELSEA TV 
+http://vmdirect.co.uk:5001/live/Errol/Errol/73.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: EIR SPORTS 2 
+http://vmdirect.co.uk:5001/live/Errol/Errol/76.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: ELEVEN SPORTS 2 
+http://sesat.tk:25461/live/hakkom1977/79872232/5171.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: I PADDY POWER HORSE RACING SPRINT 
+http://vmdirect.co.uk:5001/live/Errol/Errol/84892.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: RACING HD
+http://sesat.tk:25461/live/hakkom1977/79872232/5192.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: RACING 
+http://vmdirect.co.uk:5001/live/Errol/Errol/2911.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORT 1 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31799.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORT 2 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31798.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORT 3 HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31795.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORT 3 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31796.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS 1 
+http://titaniptv.com:9140/live/ojjZMPQGF1/nt3bNSDtbx/1078.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS 4 
+http://titaniptv.com:9140/live/ojjZMPQGF1/nt3bNSDtbx/1081.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS ACTION HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31791.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS CRICKET HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31788.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS CRICKET 
+http://vmdirect.co.uk:5001/live/Errol/Errol/104.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS FOOTBALL HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/10527.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS FOOTBALL (1+) HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31786.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS GOLF HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/10526.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS GOLF (1+) HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31785.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS MAIN EVENT HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/105.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS MAIN EVENT (1+) HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84823.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS MAIN EVENT (2+) HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31784.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS MAIN EVENT 
+http://vmdirect.co.uk:5001/live/Errol/Errol/106.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS PREMIER LEAGUE HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/84822.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS PREMIER LEAGUE (1+) HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31781.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS RED BUTTON 4 
+http://vmdirect.co.uk:5001/live/Errol/Errol/84898.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS RED BUTTON 5 
+http://vmdirect.co.uk:5001/live/Errol/Errol/84899.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS THE OPEN 
+http://vmdirect.co.uk:5001/live/Errol/Errol/100.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SOCCER HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32245.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SOCCER 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32092.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SOCCER (1+) 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32231.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SOCCER (2+) 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32233.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SOCCER (3+) 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32234.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SOCCER (4+) 
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32236.ts
+#EXTINF:0 group-title="UK: United Kingdom",UK: SOCCER AR HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32210.ts
+#EXTINF:0 group-title="US: United States",US: ALBANIAIPTV COM-SKYSPORT 2 HD
+http://51.15.3.71:8000/live/albi322/kanale666/99.m3u8
+#EXTINF:0 group-title="US: United States",US: ALBANIAIPTV COM-SKYSPORT 4 HD
+http://51.15.3.71:8000/live/albi322/kanale666/101.m3u8
+#EXTINF:0 group-title="US: United States",US: BEIN SPORTS HD
+http://68.183.106.158:8000/live/mxu0T1APOW/freeiptvdaily.tv/14.m3u8
+#EXTINF:0 group-title="US: United States",US: ESPN 2 
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS 2 HD
+http://sesat.tk:25461/live/hakkom1977/79872232/18161.ts
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS RACING 
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS SUN OPT 1 
+http://ccmedia.one:25461/live/Nbakken81/0PXXKWtRu4/52.ts
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS WISCONSIN PLUS 
+http://ccmedia.one:25461/live/Nbakken81/0PXXKWtRu4/33293.ts
+#EXTINF:0 group-title="US: United States",US: SKYSPORT 1 HD
+http://51.15.3.71:8000/live/alb3.0/www.albboxapp.xyz/98.m3u8
+#EXTINF:0 group-title="US: United States",US: SKYSPORT 2 HD
+http://51.15.3.71:8000/live/alb3.0/www.albboxapp.xyz/99.m3u8
+#EXTINF:0 group-title="US: United States",US: SOCCER HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32225.ts
+#EXTINF:0 group-title="US: United States",US: TSN SPORT 3 HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/31938.ts
+#EXTINF:0 group-title="WW: World Wide",WW: SOCCER BE HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32163.ts
+#EXTINF:0 group-title="WW: World Wide",WW: SOCCER BE (1+) HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32164.ts
+#EXTINF:0 group-title="WW: World Wide",WW: SOCCER BE (2+) HD
+http://tele-live.n4t.co:23000/live/vbvfhkhp/9W16vo5Hmh/32165.ts
